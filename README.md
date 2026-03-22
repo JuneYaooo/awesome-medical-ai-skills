@@ -93,8 +93,8 @@ Each skill is rated on three dimensions:
 | [OMOP MCP](https://github.com/OHNLP/omop_mcp) | ⭐⭐ B | 🟡 Moderate | — | Map clinical terminology to OMOP concepts using LLMs for healthcare data standardization. |
 | [mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) | ⭐⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/andybrandt/mcp-simple-pubmed?style=flat-square) | Search and read medical/life sciences papers from PubMed. Simple and focused. |
 | [ncbi-mcp-server](https://github.com/vitorpavinato/ncbi-mcp-server) | ⭐ C | 🟡 Moderate | — | Advanced PubMed search with MeSH integration, related articles, batch processing. |
-| [apple-health-mcp-server](https://github.com/the-momentum/apple-health-mcp-server) | ⭐⭐ B | 🟡 Moderate | — | Access exported Apple Health data with built-in analytics. |
-| [fulcra-context-mcp](https://github.com/fulcradynamics/fulcra-context-mcp) | ⭐⭐ B | 🟡 Moderate | — | Personal biometric data: sleep, heart rate, HRV, glucose, workouts via Fulcra Life API. |
+| [apple-health-mcp-server](https://github.com/the-momentum/apple-health-mcp-server) | ⭐⭐ B | 🟡 Moderate | — | Access exported Apple Health data with analytics. *(Note: project has evolved into "Open Wearables" — broader multi-source health data platform)* |
+| [fulcra-context-mcp](https://github.com/fulcradynamics/fulcra-context-mcp) | ⭐ C+ | 🟡 Moderate | — | Personal biometric data: sleep, heart rate, HRV, glucose, workouts via Fulcra Life API. *(Note: sparse docs; requires Fulcra account and OAuth setup)* |
 | [verilexdata-mcp](https://github.com/carrierone/verilexdata-mcp) | ⭐ C | 🟡 Moderate | — | 20 structured datasets including NPI healthcare provider registry. Pay-per-query. *(Note: general-purpose data tool, not purely medical)* |
 
 **[→ More MCP servers](categories/mcp-servers.md)**
@@ -107,8 +107,8 @@ Each skill is rated on three dimensions:
 
 | Skill | Platform | Grade | Maintenance | Stars | Description |
 |-------|----------|-------|-------------|-------|-------------|
-| [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | Claude Code / Multi | ⭐⭐⭐ A | 🟢 Active | ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills?style=flat-square) | 170+ scientific skills covering bioinformatics, cheminformatics, proteomics, clinical research, medical imaging. 250+ databases. Cross-platform (Claude Code, Cursor, Codex, Gemini CLI). |
-| [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | OpenClaw | ⭐⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square) | 869 medical AI agent skills: clinical workflows, genomics, drug discovery, bioinformatics, regulatory compliance. |
+| [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | Claude Code / Multi | ⭐⭐⭐ A | 🟢 Active | ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills?style=flat-square) | 170+ scientific skill definitions (SKILL.md format) covering bioinformatics, cheminformatics, proteomics, clinical research, medical imaging. Install via agent platform (Claude Code, Cursor, Codex, Gemini CLI) — not standalone executables. 250+ database references. |
+| [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | OpenClaw | ⭐⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square) | 869 medical AI agent skill definitions (SKILL.md format): clinical workflows, genomics, drug discovery, bioinformatics, regulatory compliance. Install via OpenClaw/NanoClaw platform. |
 | [dna-claude-analysis](https://github.com/shmlkv/dna-claude-analysis) | Claude Code | ⭐⭐ B- | 🟡 Moderate | ![](https://img.shields.io/github/stars/shmlkv/dna-claude-analysis?style=flat-square) | Personal genome analysis from 23andMe/AncestryDNA/MyHeritage/Nebula. 17 analysis scripts (health, ancestry, nutrition, carrier status, longevity). Interactive HTML dashboard. |
 | [biothings-mcp](https://github.com/longevity-genie/biothings-mcp) | MCP Server | ⭐⭐ B | 🟡 Moderate | — | BioThings API for genes, genetic variants, drugs, and taxonomic information. |
 | [gget-mcp](https://github.com/longevity-genie/gget-mcp) | MCP Server | ⭐⭐ B | 🟡 Moderate | — | Bioinformatics toolkit for genomics queries wrapping the gget library. |
@@ -127,7 +127,7 @@ Each skill is rated on three dimensions:
 | Skill | Platform | Grade | Maintenance | Stars | Description |
 |-------|----------|-------|-------------|-------|-------------|
 | [MedRAX](https://github.com/bowang-lab/MedRAX) | LangChain Agent | ⭐⭐⭐ A- | 🟢 Active | ![](https://img.shields.io/github/stars/bowang-lab/MedRAX?style=flat-square) | ICML 2025. First versatile AI agent for chest X-ray interpretation. Integrates CheXagent, LLaVA-Med, MedSAM, Maira-2, DenseNet-121. ChestAgentBench (2,500 queries). |
-| [radiology-swarm](https://github.com/The-Swarm-Corporation/radiology-swarm) | Swarms Agent | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/The-Swarm-Corporation/radiology-swarm?style=flat-square) | Enterprise multi-agent system for radiological analysis, diagnosis, and treatment planning. |
+| [radiology-swarm](https://github.com/The-Swarm-Corporation/radiology-swarm) | Swarms Agent | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/The-Swarm-Corporation/radiology-swarm?style=flat-square) | Multi-agent radiology analysis concept/demo. *(Note: conceptual — minimal implementation, not production-ready)* |
 | [DICOM MCP](https://github.com/ChristianHinge/dicom-mcp) | MCP Server | ⭐⭐ B+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/ChristianHinge/dicom-mcp?style=flat-square) | Query and move medical images from PACS/DICOM servers. |
 | [wiseocr](https://clawskills.sh/skills/wiseocr) | OpenClaw | ⭐ C | 🟡 Moderate | — | PDF to Markdown with medical document OCR support. |
 
@@ -313,8 +313,8 @@ Each skill is rated on three dimensions:
 
 | Collection | Stars | Medical Skills Count | Description |
 |-----------|-------|---------------------|-------------|
-| [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills?style=flat-square) | 30+ | 170 scientific skills — includes bioinformatics, clinical research, medical imaging. |
-| [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | ![](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square) | 869 | Largest medical-only skill library. OpenClaw/NanoClaw platform. |
+| [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills?style=flat-square) | 30+ | 170 scientific skill definitions (SKILL.md) — includes bioinformatics, clinical research, medical imaging. Install via Claude Code/Cursor. |
+| [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | ![](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square) | 869 | Largest medical skill definition library (SKILL.md). Install via OpenClaw/NanoClaw. |
 | [awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) | ![](https://img.shields.io/github/stars/VoltAgent/awesome-openclaw-skills?style=flat-square) | 84 (Health) | 5,400+ skills total; 84 in Health & Fitness category. |
 | [awesome-openclaw-skills-zh](https://github.com/clawdbot-ai/awesome-openclaw-skills-zh) | ![](https://img.shields.io/github/stars/clawdbot-ai/awesome-openclaw-skills-zh?style=flat-square) | 30+ | Chinese translations of OpenClaw skills. |
 | [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ![](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat-square) | Few | Curated Claude skills; limited medical content. |

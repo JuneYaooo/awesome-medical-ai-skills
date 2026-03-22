@@ -87,11 +87,11 @@ Advanced NCBI/PubMed with MeSH integration, related articles, batch processing.
 
 ### [apple-health-mcp-server](https://github.com/the-momentum/apple-health-mcp-server) ⭐⭐ B
 
-Access exported Apple Health data with built-in analytics.
+Access exported Apple Health data with built-in analytics. *(Note: project has evolved into "Open Wearables" — a broader multi-source health data platform)*
 
-### [fulcra-context-mcp](https://github.com/fulcradynamics/fulcra-context-mcp) ⭐⭐ B
+### [fulcra-context-mcp](https://github.com/fulcradynamics/fulcra-context-mcp) ⭐ C+
 
-Personal biometric data: sleep, HR, HRV, glucose, workouts via Fulcra Life API.
+Personal biometric data: sleep, HR, HRV, glucose, workouts via Fulcra Life API. *(Note: sparse documentation; requires Fulcra account with OAuth2 consent flow)*
 
 ### [verilexdata-mcp](https://github.com/carrierone/verilexdata-mcp) ⭐ C
 

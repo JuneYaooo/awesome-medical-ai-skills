@@ -6,10 +6,11 @@
 
 ### [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) ⭐⭐⭐ A
 
-170+ scientific agent skills with 30+ medical/biomedical skills included.
+170+ scientific agent skill definitions (SKILL.md format) with 30+ medical/biomedical skills included. These are documentation files that teach AI agents domain-specific knowledge — installed via agent platforms, not standalone executables.
 
 - **Stars**: 15,800+
 - **Platforms**: Claude Code, Cursor, Codex, Gemini CLI (Agent Skills standard)
+- **Format**: Each skill is a SKILL.md file containing instructions, code examples, and best practices
 - **Medical-relevant skill areas**:
   - Bioinformatics & computational biology
   - Cheminformatics & drug discovery
@@ -26,7 +27,7 @@
 
 ### [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) ⭐⭐ B+
 
-869 medical-specific AI agent skills.
+869 medical-specific AI agent skill definitions (SKILL.md format). Install via OpenClaw/NanoClaw platform — not standalone tools.
 
 - **Stars**: 1,500+
 - **Platform**: OpenClaw/NanoClaw
