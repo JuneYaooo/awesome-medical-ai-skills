@@ -7,8 +7,10 @@
 
 > 🇨🇳 **Looking for China-accessible skills?** See [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — 国内版：关注网络可达性、中文支持、国内平台生态
 
-> A curated list of AI agent skills, MCP servers, and tools for **medical & healthcare** use cases — **International Edition**.
-> Covering Claude Code, OpenClaw, Cursor, Codex, and other AI coding agents.
+> 🏥 **Looking for medical AI projects (LLMs, imaging, multi-agent systems)?** See [awesome-medical-ai](https://github.com/JuneYaooo/awesome-medical-ai) — broader medical AI project collection
+
+> A curated list of **installable** AI agent skills, MCP servers, and tools for **medical & healthcare** use cases — **International Edition**.
+> Only includes skills you can install into Claude Code, OpenClaw, Cursor, Codex, and other AI coding agents.
 
 ---
 
@@ -49,14 +51,13 @@ Each skill is rated on three dimensions:
 - [Clinical Skills & Knowledge Bases](#clinical-skills--knowledge-bases)
 - [Medical MCP Servers](#medical-mcp-servers)
 - [Biomedical Research & Genomics](#biomedical-research--genomics)
-- [Medical Imaging & Radiology](#medical-imaging--radiology)
+- [Medical Imaging Skills](#medical-imaging-skills)
 - [Drug & Pharmacology](#drug--pharmacology)
 - [Health Data & Wearables](#health-data--wearables)
 - [Mental Health & Therapy](#mental-health--therapy)
 - [Nutrition & Diet](#nutrition--diet)
 - [Fitness & Training](#fitness--training)
 - [Medical Device Compliance](#medical-device-compliance)
-- [Multi-Agent Medical Systems](#multi-agent-medical-systems)
 - [Curated Skill Collections](#curated-skill-collections)
 - [Related Resources](#related-resources)
 - [Contributing](#contributing)
@@ -120,16 +121,16 @@ Each skill is rated on three dimensions:
 
 ---
 
-## Medical Imaging & Radiology
+## Medical Imaging Skills
 
-> AI agents for medical image analysis, radiology, and pathology.
+> Installable skills and MCP servers for medical imaging workflows.
 
 | Skill | Platform | Grade | Maintenance | Stars | Description |
 |-------|----------|-------|-------------|-------|-------------|
-| [MedRAX](https://github.com/bowang-lab/MedRAX) | LangChain Agent | ⭐⭐⭐ A- | 🟢 Active | ![](https://img.shields.io/github/stars/bowang-lab/MedRAX?style=flat-square) | ICML 2025. First versatile AI agent for chest X-ray interpretation. Integrates CheXagent, LLaVA-Med, MedSAM, Maira-2, DenseNet-121. ChestAgentBench (2,500 queries). |
-| [radiology-swarm](https://github.com/The-Swarm-Corporation/radiology-swarm) | Swarms Agent | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/The-Swarm-Corporation/radiology-swarm?style=flat-square) | Multi-agent radiology analysis concept/demo. *(Note: conceptual — minimal implementation, not production-ready)* |
-| [DICOM MCP](https://github.com/ChristianHinge/dicom-mcp) | MCP Server | ⭐⭐ B+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/ChristianHinge/dicom-mcp?style=flat-square) | Query and move medical images from PACS/DICOM servers. |
+| [DICOM MCP](https://github.com/ChristianHinge/dicom-mcp) | MCP Server | ⭐⭐ B+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/ChristianHinge/dicom-mcp?style=flat-square) | Query, read, and move medical images/reports from PACS. Only MCP server targeting DICOM infrastructure. PyPI: `dicom-mcp`. |
 | [wiseocr](https://clawskills.sh/skills/wiseocr) | OpenClaw | ⭐ C | 🟡 Moderate | — | PDF to Markdown with medical document OCR support. |
+
+> 💡 For standalone medical imaging AI projects (MedRAX, EasyLung, etc.), see [awesome-medical-ai](https://github.com/JuneYaooo/awesome-medical-ai#medical-imaging--radiology).
 
 ---
 
@@ -287,26 +288,6 @@ Each skill is rated on three dimensions:
 
 ---
 
-## Multi-Agent Medical Systems
-
-> Multi-agent frameworks and research systems for medical AI.
-
-| System | Stars | Grade | Description |
-|--------|-------|-------|-------------|
-| [MedRAX](https://github.com/bowang-lab/MedRAX) | ![](https://img.shields.io/github/stars/bowang-lab/MedRAX?style=flat-square) | ⭐⭐⭐ A- | ICML 2025. Chest X-ray AI agent with 7+ specialized models. |
-| [Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) | ![](https://img.shields.io/github/stars/souvikmajumder26/Multi-Agent-Medical-Assistant?style=flat-square) | ⭐⭐ B | Multi-agent diagnostics and healthcare research chatbot. |
-| [Awesome-LLM-Healthcare](https://github.com/mingze-yuan/Awesome-LLM-Healthcare) | ![](https://img.shields.io/github/stars/mingze-yuan/Awesome-LLM-Healthcare?style=flat-square) | ⭐⭐ B | Curated paper list: LLMs in medicine. |
-| [medgraph-ai](https://github.com/asanmateu/medgraph-ai) | ![](https://img.shields.io/github/stars/asanmateu/medgraph-ai?style=flat-square) | ⭐⭐ B | Healthcare RAG with Neo4j knowledge graphs. LangChain + FastAPI. |
-| [Isaree-Platform](https://github.com/Isaree-ai/Isaree-Platform) | — | ⭐ C | Open-source medical-compliant AI assistant and orchestration engine. |
-| [Multi_Agent_Medical_System](https://github.com/joyceannie/Multi_Agent_Medical_System) | — | ⭐ C | ICD-10 extractor, SOAP docs, medical image reports. Uses MedGemma. |
-| [SOLVE-Med](https://github.com/PRAISELab-PicusLab/SOLVE-Med) | — | ⭐ C | Multi-agent SLM for medical Q&A — private-by-design, cloud-free. |
-| [Doctor_Agent](https://github.com/Ho3seinTork/Doctor_Agent) | — | ⭐ C 🔴 | AI medical assistant: symptom analysis, health data management. *(Stale: ~10 months)* |
-| [Prescriptly-AI](https://github.com/warshit/Prescriptly-AI) | — | ⭐ C | Autonomous agent for prescription interpretation. |
-| [crewai-health-advisor](https://github.com/AjayKuchhadiya/crewai-health-advisor) | — | ⭐ C 🔴 | CrewAI for medical report summarization and health recommendations. *(Stale: ~9 months)* |
-| [MediCARE](https://github.com/giuseppericcio/MediCARE) | — | ⭐ C 🔴 | Medical collaborative agents reasoning over heterogeneous graphs. *(Stale: ~12 months)* |
-
----
-
 ## Curated Skill Collections
 
 > Large repositories that include medical skills among broader collections.
@@ -324,9 +305,13 @@ Each skill is rated on three dimensions:
 
 ## Related Resources
 
-### Papers & Research
-- [Awesome-LLM-Healthcare](https://github.com/mingze-yuan/Awesome-LLM-Healthcare) — Comprehensive paper list on LLMs in medicine
-- [MedRAX (ICML 2025)](https://arxiv.org/abs/2502.02673) — First versatile AI agent for chest X-ray interpretation
+### Sibling Repos
+
+| Repo | Description |
+|------|-------------|
+| [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) | 🇨🇳 Medical AI Skills（国内版） |
+| [awesome-medical-ai](https://github.com/JuneYaooo/awesome-medical-ai) | 🏥 Medical AI Projects — LLMs, imaging, multi-agent systems |
+| [awesome-medical-ai-cn](https://github.com/JuneYaooo/awesome-medical-ai-cn) | 🇨🇳 医疗 AI 项目合集（国内版） |
 
 ### Standards & Protocols
 - [HL7 FHIR](https://www.hl7.org/fhir/) — Fast Healthcare Interoperability Resources
