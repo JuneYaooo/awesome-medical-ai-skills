@@ -1,20 +1,22 @@
-# Awesome Medical AI Skills 🏥🤖
+# Awesome Medical AI Skills 🏥🤖🌍
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--22-blue.svg)](#)
 [![Skills Count](https://img.shields.io/badge/Skills-100%2B-green.svg)](#)
 
-> A curated list of AI agent skills, MCP servers, and tools for **medical & healthcare** use cases.
-> Covering Claude Code, OpenClaw, Cursor, Codex, and other AI coding agents.
+> 🇨🇳 **Looking for China-accessible skills?** See [awesome-medical-ai-skills-cn](https://github.com/yyj/awesome-medical-ai-skills-cn) — 国内版：关注网络可达性、中文支持、国内平台生态
 
-**[English](#table-of-contents)** | **[中文说明](README_CN.md)**
+> A curated list of AI agent skills, MCP servers, and tools for **medical & healthcare** use cases — **International Edition**.
+> Covering Claude Code, OpenClaw, Cursor, Codex, and other AI coding agents.
 
 ---
 
 ## Why This List?
 
 Medical AI agent skills are scattered across dozens of registries (ClawHub, awesome-claude-skills, awesome-openclaw-skills, etc.) with no unified collection. This repo aims to:
+
+> 🌍 **International Edition**: This list focuses on globally accessible platforms and tools. For skills optimized for the China ecosystem (domestic APIs, Chinese-language models, local compliance), see the [CN version](https://github.com/yyj/awesome-medical-ai-skills-cn).
 
 - **Aggregate** all medical/healthcare AI skills in one place
 - **Evaluate** each skill with quality grades, maintenance status, and feature reviews
