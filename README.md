@@ -95,7 +95,7 @@ Each skill is rated on three dimensions:
 | [ncbi-mcp-server](https://github.com/vitorpavinato/ncbi-mcp-server) | ⭐ C | 🟡 Moderate | — | Advanced PubMed search with MeSH integration, related articles, batch processing. |
 | [apple-health-mcp-server](https://github.com/the-momentum/apple-health-mcp-server) | ⭐⭐ B | 🟡 Moderate | — | Access exported Apple Health data with built-in analytics. |
 | [fulcra-context-mcp](https://github.com/fulcradynamics/fulcra-context-mcp) | ⭐⭐ B | 🟡 Moderate | — | Personal biometric data: sleep, heart rate, HRV, glucose, workouts via Fulcra Life API. |
-| [verilexdata-mcp](https://github.com/carrierone/verilexdata-mcp) | ⭐ C | 🟡 Moderate | — | 20 structured datasets including NPI healthcare provider registry. Pay-per-query. |
+| [verilexdata-mcp](https://github.com/carrierone/verilexdata-mcp) | ⭐ C | 🟡 Moderate | — | 20 structured datasets including NPI healthcare provider registry. Pay-per-query. *(Note: general-purpose data tool, not purely medical)* |
 
 **[→ More MCP servers](categories/mcp-servers.md)**
 
@@ -300,10 +300,10 @@ Each skill is rated on three dimensions:
 | [Isaree-Platform](https://github.com/Isaree-ai/Isaree-Platform) | — | ⭐ C | Open-source medical-compliant AI assistant and orchestration engine. |
 | [Multi_Agent_Medical_System](https://github.com/joyceannie/Multi_Agent_Medical_System) | — | ⭐ C | ICD-10 extractor, SOAP docs, medical image reports. Uses MedGemma. |
 | [SOLVE-Med](https://github.com/PRAISELab-PicusLab/SOLVE-Med) | — | ⭐ C | Multi-agent SLM for medical Q&A — private-by-design, cloud-free. |
-| [Doctor_Agent](https://github.com/Ho3seinTork/Doctor_Agent) | — | ⭐ C | AI medical assistant: symptom analysis, health data management. |
+| [Doctor_Agent](https://github.com/Ho3seinTork/Doctor_Agent) | — | ⭐ C 🔴 | AI medical assistant: symptom analysis, health data management. *(Stale: ~10 months)* |
 | [Prescriptly-AI](https://github.com/warshit/Prescriptly-AI) | — | ⭐ C | Autonomous agent for prescription interpretation. |
-| [crewai-health-advisor](https://github.com/AjayKuchhadiya/crewai-health-advisor) | — | ⭐ C | CrewAI for medical report summarization and health recommendations. |
-| [MediCARE](https://github.com/giuseppericcio/MediCARE) | — | ⭐ C | Medical collaborative agents reasoning over heterogeneous graphs. |
+| [crewai-health-advisor](https://github.com/AjayKuchhadiya/crewai-health-advisor) | — | ⭐ C 🔴 | CrewAI for medical report summarization and health recommendations. *(Stale: ~9 months)* |
+| [MediCARE](https://github.com/giuseppericcio/MediCARE) | — | ⭐ C 🔴 | Medical collaborative agents reasoning over heterogeneous graphs. *(Stale: ~12 months)* |
 
 ---
 
@@ -342,6 +342,17 @@ Each skill is rated on three dimensions:
 ## Contributing
 
 We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+### 💡 Used a Great Medical Skill? Recommend It!
+
+If you've actually used a medical AI skill and found it genuinely helpful, **we'd love to hear about it!** Real-world usage feedback is the most valuable signal for this list.
+
+**How to recommend:**
+1. [Open an Issue](../../issues/new?template=recommend.md&title=Recommend:+SKILL_NAME) with the title `Recommend: <Skill Name>`
+2. Tell us: **what you used it for**, **what worked well**, and **any gotchas**
+3. We'll add a `👍 Community Recommended` badge to the listing
+
+> Skills validated by real users carry more weight than star counts. Your experience helps others make better choices.
 
 ### How to Add a Skill
 
