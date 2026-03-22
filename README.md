@@ -73,9 +73,7 @@ Each skill is rated on three dimensions:
 | [medical-guidelines-suite](https://github.com/fshaan/medical-guidelines-suite) | Claude Code | ⭐⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/fshaan/medical-guidelines-suite?style=flat-square) | Clinical guidelines knowledge base builder with cross-guideline RAG retrieval and batch patient report generation (xlsx/docx/pptx). Supports NCCN, ESMO, CSCO guidelines. Chinese output. |
 | [mediwise-health-suite](https://github.com/JuneYaooo/mediwise-health-suite) | OpenClaw | ⭐⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/JuneYaooo/mediwise-health-suite?style=flat-square) | Family health management suite — health records, diet tracking, weight management, medication reminders, pre-visit summaries. Multi-member support with data isolation. Local SQLite storage. Bilingual CN/EN. |
 | [WellAlly-health](https://github.com/huifer/WellAlly-health) | Claude Code | ⭐ C+ | 🟡 Moderate | — | File-based personal health record management. 13 specialist consultation simulations, drug interaction detection, radiation dose tracking. Bilingual CN/EN. *(Formerly Claude-Ally-Health)* |
-| [therapy-mode](https://clawskills.sh/skills/therapy-mode) | OpenClaw | ⭐⭐ B | 🟢 Active | — | AI-assisted therapy support framework — CBT, ACT, DBT, Motivational Interviewing. Session notes CLI and crisis protocols. |
-| [jungian-psychologist](https://clawskills.sh/skills/jungian-psychologist) | OpenClaw | ⭐ C | 🟡 Moderate | — | Jungian analytical psychology: shadow work, archetype analysis, dream interpretation. |
-| [personas (Dr. Med)](https://clawskills.sh/skills/personas) | OpenClaw | ⭐ C | 🟡 Moderate | — | 31 AI personas including Dr. Med role for medical domain consultation. |
+| [personas (Dr. Med)](https://clawskills.sh/skills/personas) | OpenClaw | ⭐ C | 🟡 Moderate | — | 31 AI personas including Dr. Med role for medical domain consultation. *(Link may be broken)* |
 
 **[→ More clinical skills](categories/clinical.md)**
 
@@ -128,10 +126,9 @@ Each skill is rated on three dimensions:
 
 | Skill | Platform | Grade | Maintenance | Stars | Description |
 |-------|----------|-------|-------------|-------|-------------|
-| [DICOM MCP](https://github.com/ChristianHinge/dicom-mcp) | MCP Server | ⭐⭐ B+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/ChristianHinge/dicom-mcp?style=flat-square) | Query, read, and move medical images/reports from PACS. Only MCP server targeting DICOM infrastructure. PyPI: `dicom-mcp`. |
-| [wiseocr](https://clawskills.sh/skills/wiseocr) | OpenClaw | ⭐ C | 🟡 Moderate | — | PDF to Markdown with medical document OCR support. |
+| [wiseocr](https://clawskills.sh/skills/wiseocr) | OpenClaw | ⭐ C | 🟡 Moderate | — | PDF to Markdown with medical document OCR support. *(Link may be broken)* |
 
-> 💡 For standalone medical imaging AI projects (MedRAX, EasyLung, etc.), see [awesome-medical-ai](https://github.com/JuneYaooo/awesome-medical-ai#medical-imaging--radiology).
+> 💡 For standalone medical imaging AI projects (MedRAX, EasyLung, etc.), see [awesome-medical-ai](https://github.com/JuneYaooo/awesome-medical-ai#medical-imaging--radiology). Also see: [DICOM MCP](#medical-mcp-servers) for PACS integration.
 
 ---
 
@@ -142,9 +139,8 @@ Each skill is rated on three dimensions:
 | Skill | Platform | Grade | Maintenance | Stars | Description |
 |-------|----------|-------|-------------|-------|-------------|
 | [maccabi-pharm-search](https://clawskills.sh/skills/alexpolonsky-maccabi-pharm-search) | OpenClaw | ⭐⭐ B | 🟡 Moderate | — | Check medication stock at Maccabi pharmacies in Israel. |
-| [admet-prediction](https://clawskills.sh/skills/huifer-admet-prediction) | OpenClaw | ⭐⭐ B | 🟡 Moderate | — | ADMET prediction for drug candidates. |
 
-> Also see: [BioMCP](#medical-mcp-servers) (ChEMBL, drug-gene interactions), [medical-mcp](#medical-mcp-servers) (FDA drugs, RxNorm)
+> Also see: [BioMCP](#medical-mcp-servers) (ChEMBL, drug-gene interactions), [medical-mcp](#medical-mcp-servers) (FDA drugs, RxNorm), [admet-prediction](#biomedical-research--genomics) (ADMET prediction)
 
 ---
 
@@ -163,25 +159,24 @@ Each skill is rated on three dimensions:
 | **Garmin** | | | | |
 | [garmin-health](https://clawskills.sh/skills/eversonl-garmin-health-analysis) | OpenClaw | ⭐⭐ B | 🟢 Active | Natural language Garmin data — 20+ metrics: sleep, HRV, VO2max, body battery, SPO2. |
 | [garmin-cli](https://clawskills.sh/skills/voydz-garmin-cli) | OpenClaw | ⭐⭐ B | 🟡 Moderate | Garmin Connect health/activity data via CLI. |
-| [garmin-connect](https://clawskills.sh/skills/garmin-connect) | OpenClaw | ⭐ C | 🟡 Moderate | Garmin Connect auto-sync every 5 minutes. |
+| [garmin-connect](https://clawskills.sh/skills/garmin-connect) | OpenClaw | ⭐ C | 🟡 Moderate | Garmin Connect auto-sync every 5 minutes. *(Link may be broken)* |
 | **Fitbit** | | | | |
 | [fitbit](https://clawskills.sh/skills/mjrussell-fitbit) | OpenClaw | ⭐⭐ B | 🟢 Active | Query Fitbit sleep, heart rate, activity, SpO2. |
 | [fitbit-analytics](https://clawskills.sh/skills/kesslerio-fitbit-analytics) | OpenClaw | ⭐⭐ B | 🟡 Moderate | Fitbit health data integration and analytics. |
 | **WHOOP** | | | | |
-| [whoop-health-analysis](https://clawskills.sh/skills/whoop-health-analysis) | OpenClaw | ⭐⭐ B | 🟢 Active | WHOOP data (sleep, recovery, HRV, strain) with interactive charts. |
-| [whoop-tracker](https://clawskills.sh/skills/whoop-tracker) | OpenClaw | ⭐⭐ B | 🟡 Moderate | WHOOP recovery scores, sleep metrics, workout stats. |
-| [whoop-morning](https://clawskills.sh/skills/whoop-morning) | OpenClaw | ⭐ C | 🟡 Moderate | Daily WHOOP morning check-in and recommendations. |
+| [whoop-health-analysis](https://clawskills.sh/skills/whoop-health-analysis) | OpenClaw | ⭐⭐ B | 🟢 Active | WHOOP data (sleep, recovery, HRV, strain) with interactive charts. *(Link may be broken)* |
+| [whoop-tracker](https://clawskills.sh/skills/whoop-tracker) | OpenClaw | ⭐⭐ B | 🟡 Moderate | WHOOP recovery scores, sleep metrics, workout stats. *(Link may be broken)* |
+| [whoop-morning](https://clawskills.sh/skills/whoop-morning) | OpenClaw | ⭐ C | 🟡 Moderate | Daily WHOOP morning check-in and recommendations. *(Link may be broken)* |
 | **Oura Ring** | | | | |
 | [oura-analytics](https://clawskills.sh/skills/kesslerio-oura-analytics) | OpenClaw | ⭐⭐ B | 🟡 Moderate | Oura Ring data integration and analytics. |
-| [oura-ring-skill](https://clawskills.sh/skills/oura-ring-skill) | OpenClaw | ⭐ C | 🟡 Moderate | Oura readiness/sleep + 7-day trends, morning briefing. |
+| [oura-ring-skill](https://clawskills.sh/skills/oura-ring-skill) | OpenClaw | ⭐ C | 🟡 Moderate | Oura readiness/sleep + 7-day trends, morning briefing. *(Link may be broken)* |
 | **Withings** | | | | |
-| [withings-health](https://clawskills.sh/skills/withings-health) | OpenClaw | ⭐⭐ B | 🟡 Moderate | Weight, body composition, activity, and sleep from Withings. |
-| [withings-family](https://clawskills.sh/skills/withings-family) | OpenClaw | ⭐ C | 🟡 Moderate | Multi-family member Withings data. |
+| [withings-health](https://clawskills.sh/skills/withings-health) | OpenClaw | ⭐⭐ B | 🟡 Moderate | Weight, body composition, activity, and sleep from Withings. *(Link may be broken)* |
+| [withings-family](https://clawskills.sh/skills/withings-family) | OpenClaw | ⭐ C | 🟡 Moderate | Multi-family member Withings data. *(Link may be broken)* |
 | **Other** | | | | |
 | [soft-pillow](https://clawskills.sh/skills/kivs-soft-pillow) | OpenClaw | ⭐ C | 🟡 Moderate | Sleep data and dream history queries. |
 | [eightctl](https://clawskills.sh/skills/steipete-eightctl) | OpenClaw | ⭐⭐ B | 🟡 Moderate | Control Eight Sleep pods — temperature, alarms, schedules. |
 | [anthrovision-telegram-body-scan](https://clawskills.sh/skills/dr2101-anthrovision-telegram-body-scan) | OpenClaw | ⭐ C | 🟡 Moderate | Body measurement scan via Telegram. |
-| [huckleberry](https://clawskills.sh/skills/jayhickey-huckleberry) | OpenClaw | ⭐⭐ B | 🟢 Active | Baby sleep, feeding, diapers, and growth tracking. |
 
 **[→ Full wearables list](categories/wearables.md)**
 
@@ -193,16 +188,16 @@ Each skill is rated on three dimensions:
 
 | Skill | Platform | Grade | Description |
 |-------|----------|-------|-------------|
-| [therapy-mode](https://clawskills.sh/skills/therapy-mode) | OpenClaw | ⭐⭐ B | CBT, ACT, DBT, Motivational Interviewing. Session notes and crisis protocols. |
+| [therapy-mode](https://clawskills.sh/skills/therapy-mode) | OpenClaw | ⭐⭐ B | CBT, ACT, DBT, Motivational Interviewing. Session notes and crisis protocols. *(Link may be broken)* |
 | [anxiety-relief](https://clawskills.sh/skills/jhillin8-anxiety-relief) | OpenClaw | ⭐ C | Grounding exercises and breathing techniques for anxiety. |
 | [depression-support](https://clawskills.sh/skills/jhillin8-depression-support) | OpenClaw | ⭐ C | Daily mood tracking and depression support tools. |
-| [jungian-psychologist](https://clawskills.sh/skills/jungian-psychologist) | OpenClaw | ⭐ C | Shadow work, archetype analysis, dream interpretation. |
-| [mens-mental-health](https://clawskills.sh/skills/mens-mental-health) | OpenClaw | ⭐ C | Mood checks, stress tools, and judgment-free space for men. |
+| [jungian-psychologist](https://clawskills.sh/skills/jungian-psychologist) | OpenClaw | ⭐ C | Shadow work, archetype analysis, dream interpretation. *(Link may be broken)* |
+| [mens-mental-health](https://clawskills.sh/skills/mens-mental-health) | OpenClaw | ⭐ C | Mood checks, stress tools, and judgment-free space for men. *(Link may be broken)* |
 | [adhd-assistant](https://clawskills.sh/skills/thinktankmachine-adhd-assistant) | OpenClaw | ⭐ C | ADHD-friendly life management assistant. |
 | [adhd-daily-planner](https://clawskills.sh/skills/mikecourt-adhd-daily-planner) | OpenClaw | ⭐ C | Time-blind friendly planning, executive function support. |
 | [adhd-founder-planner](https://clawskills.sh/skills/jankutschera-adhd-founder-planner) | OpenClaw | ⭐ C | ADHD-focused planning for founders. |
 | [adhd-body-doubling](https://clawskills.sh/skills/jankutschera-adhd-body-doubling) | OpenClaw | ⭐ C | Punk-style ADHD body doubling for founders. |
-| [social-media-detox](https://clawskills.sh/skills/social-media-detox) | OpenClaw | ⭐ C | Break social media addiction with digital wellness tools. |
+| [social-media-detox](https://clawskills.sh/skills/social-media-detox) | OpenClaw | ⭐ C | Break social media addiction with digital wellness tools. *(Link may be broken)* |
 | [sauna-calm](https://clawskills.sh/skills/grx21-sauna-calm) | OpenClaw | ⭐ C | Breathing exercises and calm-down protocols. |
 | [clawtopia](https://clawskills.sh/skills/alfrescian-clawtopia) | OpenClaw | ⭐ C | Peaceful wellness sanctuary for AI agents. |
 
@@ -218,7 +213,7 @@ Each skill is rated on three dimensions:
 | [calorie-visualizer](https://clawskills.sh/skills/vintlin-calorie-visualizer) | OpenClaw | ⭐⭐ B | Local calorie logging with visual reports and chart images. |
 | [diet-tracker](https://clawskills.sh/skills/yonghaozhao722-diet-tracker) | OpenClaw | ⭐⭐ B | Track daily diet and calculate nutrition information. |
 | [opencal](https://clawskills.sh/skills/neikfu-opencal) | OpenClaw | ⭐⭐ B | Log meals and manage calorie goals hands-free via AI agent. |
-| [healthy-eating](https://clawskills.sh/skills/healthy-eating) | OpenClaw | ⭐ C | Build healthy eating habits with meal logging. |
+| [healthy-eating](https://clawskills.sh/skills/healthy-eating) | OpenClaw | ⭐ C | Build healthy eating habits with meal logging. *(Link may be broken)* |
 | [fasting-tracker](https://clawskills.sh/skills/jhillin8-fasting-tracker) | OpenClaw | ⭐⭐ B | Track intermittent fasting windows and extended fasts. |
 | [detox-counter](https://clawskills.sh/skills/jhillin8-detox-counter) | OpenClaw | ⭐ C | Track detox with counters and symptom logging. |
 | [feast](https://clawskills.sh/skills/smadgerano-feast) | OpenClaw | ⭐⭐ B | Comprehensive meal planning with cultural themes and authentic recipes. |
@@ -237,11 +232,11 @@ Each skill is rated on three dimensions:
 | [endurance-coach](https://clawskills.sh/skills/shiv19-endurance-coach) | OpenClaw | ⭐⭐ B | Personalized triathlon, marathon, ultra-endurance training plans. |
 | [muscle-gain](https://clawskills.sh/skills/jhillin8-muscle-gain) | OpenClaw | ⭐ C | Track muscle building with weight progression and protein tracking. |
 | [hevy](https://clawskills.sh/skills/mjrussell-hevy) | OpenClaw | ⭐⭐ B | Query workout data — routines, exercises, history. |
-| [workout](https://clawskills.sh/skills/workout) | OpenClaw | ⭐ C | Workout CLI: log sets, manage templates. Multi-user support. |
-| [ranked-gym](https://clawskills.sh/skills/ranked-gym) | OpenClaw | ⭐ C | Gamified gym tracking with XP, levels, and achievements. |
-| [strava-cycling-coach](https://clawskills.sh/skills/strava-cycling-coach) | OpenClaw | ⭐⭐ B | Strava cycling performance tracking and analysis. |
+| [workout](https://clawskills.sh/skills/workout) | OpenClaw | ⭐ C | Workout CLI: log sets, manage templates. Multi-user support. *(Link may be broken)* |
+| [ranked-gym](https://clawskills.sh/skills/ranked-gym) | OpenClaw | ⭐ C | Gamified gym tracking with XP, levels, and achievements. *(Link may be broken)* |
+| [strava-cycling-coach](https://clawskills.sh/skills/strava-cycling-coach) | OpenClaw | ⭐⭐ B | Strava cycling performance tracking and analysis. *(Link may be broken)* |
 | [intervals-icu](https://clawskills.sh/skills/pseuss-intervals-icu-api) | OpenClaw | ⭐⭐ B | Access and manage training data via Intervals.icu API. |
-| [testosterone-optimization](https://clawskills.sh/skills/testosterone-optimization) | OpenClaw | ⭐ C | Natural testosterone optimization via sleep, exercise, nutrition tracking. |
+| [testosterone-optimization](https://clawskills.sh/skills/testosterone-optimization) | OpenClaw | ⭐ C | Natural testosterone optimization via sleep, exercise, nutrition tracking. *(Link may be broken)* |
 
 ---
 
@@ -263,7 +258,7 @@ Each skill is rated on three dimensions:
 
 | Skill | Platform | Grade | Description |
 |-------|----------|-------|-------------|
-| [pregnancy-tracker](https://clawskills.sh/skills/pregnancy-tracker) | OpenClaw | ⭐⭐ B | Weekly pregnancy updates, symptom logging, milestone countdowns. |
+| [pregnancy-tracker](https://clawskills.sh/skills/pregnancy-tracker) | OpenClaw | ⭐⭐ B | Weekly pregnancy updates, symptom logging, milestone countdowns. *(Link may be broken)* |
 | [huckleberry](https://clawskills.sh/skills/jayhickey-huckleberry) | OpenClaw | ⭐⭐ B | Track baby sleep, feeding, diapers, and growth via Huckleberry. |
 
 ---
@@ -274,8 +269,8 @@ Each skill is rated on three dimensions:
 
 | Skill | Platform | Grade | Description |
 |-------|----------|-------|-------------|
-| [quit-smoking](https://clawskills.sh/skills/quit-smoking) | OpenClaw | ⭐ C | Smoke-free streak tracking, craving support, health recovery timeline. |
-| [quit-vaping](https://clawskills.sh/skills/quit-vaping) | OpenClaw | ⭐ C | Nicotine-free streak tracking with craving tools and milestones. |
+| [quit-smoking](https://clawskills.sh/skills/quit-smoking) | OpenClaw | ⭐ C | Smoke-free streak tracking, craving support, health recovery timeline. *(Link may be broken)* |
+| [quit-vaping](https://clawskills.sh/skills/quit-vaping) | OpenClaw | ⭐ C | Nicotine-free streak tracking with craving tools and milestones. *(Link may be broken)* |
 
 ---
 
@@ -285,7 +280,7 @@ Each skill is rated on three dimensions:
 
 | Skill | Platform | Grade | Description |
 |-------|----------|-------|-------------|
-| [tcm-video-factory](https://clawskills.sh/skills/tcm-video-factory) | OpenClaw | ⭐ C | Automated Traditional Chinese Medicine health video production. |
+| [tcm-video-factory](https://clawskills.sh/skills/tcm-video-factory) | OpenClaw | ⭐ C | Automated Traditional Chinese Medicine health video production. *(Link may be broken)* |
 
 ---
 
