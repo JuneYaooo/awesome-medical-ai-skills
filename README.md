@@ -74,11 +74,112 @@ Each skill is rated on three dimensions:
 | [mediwise-health-suite](https://github.com/JuneYaooo/mediwise-health-suite) | OpenClaw | ⭐⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/JuneYaooo/mediwise-health-suite?style=flat-square) | Family health management suite — health records, diet tracking, weight management, medication reminders, pre-visit summaries. Multi-member support with data isolation. Local SQLite storage. Bilingual CN/EN. |
 | [WellAlly-health](https://github.com/huifer/WellAlly-health) | Claude Code | ⭐ C+ | 🟡 Moderate | — | File-based personal health record management. 13 specialist consultation simulations, drug interaction detection, radiation dose tracking. Bilingual CN/EN. *(Formerly Claude-Ally-Health)* |
 | [personas (Dr. Med)](https://clawskills.sh/skills/personas) | OpenClaw | ⭐ C | 🟡 Moderate | — | 31 AI personas including Dr. Med role for medical domain consultation. *(Link may be broken)* |
+| [claude-health](https://github.com/tw93/claude-health) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/tw93/claude-health?style=flat-square) | 🤫 Claude Code skill: audit your Claude Code config health across all layers |
+| [healthy-lifestyle-claude-skills](https://github.com/olena-filatova/healthy-lifestyle-claude-skills) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/olena-filatova/healthy-lifestyle-claude-skills?style=flat-square) | *(no description)* |
+| [bOS](https://github.com/zmrlk/bOS) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/zmrlk/bOS?style=flat-square) | Your personal operating system — 16 AI agents, 22 skills, one Claude Code folder. Business, life, health, learning. |
+| [vibe-code-health-check](https://github.com/FuzulsFriend/vibe-code-health-check) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/FuzulsFriend/vibe-code-health-check?style=flat-square) | Claude Code skill: grades your codebase A through F across 6 health dimensions with plain-English fixes — built for vibe coders and solo founders |
+| [health-skillz](https://github.com/jmandel/health-skillz) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/jmandel/health-skillz?style=flat-square) | A Claude Skill for connecting to and analyzing personal health records via SMART on FHIR |
+| [Academic_writing_c_claudecode](https://github.com/grotyx/Academic_writing_c_claudecode) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/grotyx/Academic_writing_c_claudecode?style=flat-square) | Medical Academic Writing with Claude Code |
+| [soanai-xbio](https://clawskills.sh/skills/soanai-xbio) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [johnyquest7-medical-specialty-briefs](https://clawskills.sh/skills/johnyquest7-medical-specialty-briefs) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [sieershafilone-media-orchestrator](https://clawskills.sh/skills/sieershafilone-media-orchestrator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [mohdalhashemi98-hue-mh-healthcheck](https://clawskills.sh/skills/mohdalhashemi98-hue-mh-healthcheck) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [aaronn-apple-media](https://clawskills.sh/skills/aaronn-apple-media) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [dylntrnr-mediator](https://clawskills.sh/skills/dylntrnr-mediator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [felipetruman-heartbeat-checklist](https://clawskills.sh/skills/felipetruman-heartbeat-checklist) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [ollieparsley-zenplus-health](https://clawskills.sh/skills/ollieparsley-zenplus-health) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [kleberbaum-pharmaziegasse](https://clawskills.sh/skills/kleberbaum-pharmaziegasse) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [muhammedalibalci-ozel-yetenek](https://clawskills.sh/skills/muhammedalibalci-ozel-yetenek) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [mehediahamed-travel-destination-brochure](https://clawskills.sh/skills/mehediahamed-travel-destination-brochure) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [minduploadedcrab-platform-healthcheck](https://clawskills.sh/skills/minduploadedcrab-platform-healthcheck) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [nikhilp1234567-biodiversity-corridor-calculator](https://clawskills.sh/skills/nikhilp1234567-biodiversity-corridor-calculator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [iisweetheartii-agent-social](https://clawskills.sh/skills/iisweetheartii-agent-social) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [biohackerrrrrr-paper-fetcher](https://clawskills.sh/skills/biohackerrrrrr-paper-fetcher) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [gekacross-personal-sleep](https://clawskills.sh/skills/gekacross-personal-sleep) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [asleep123-bitwarden](https://clawskills.sh/skills/asleep123-bitwarden) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [reighlan-social-media-autopilot](https://clawskills.sh/skills/reighlan-social-media-autopilot) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [mohammedfarish-al-khanjry-bus](https://clawskills.sh/skills/mohammedfarish-al-khanjry-bus) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [jacksimplified-simplified-social-media](https://clawskills.sh/skills/jacksimplified-simplified-social-media) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [muslimalfatih-server-health](https://clawskills.sh/skills/muslimalfatih-server-health) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [tkuehnl-kube-medic](https://clawskills.sh/skills/tkuehnl-kube-medic) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [jaschadub-symbiont](https://clawskills.sh/skills/jaschadub-symbiont) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [iisweetheartii-agentgram-openclaw](https://clawskills.sh/skills/iisweetheartii-agentgram-openclaw) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [tomquist-mupibox-media-db](https://clawskills.sh/skills/tomquist-mupibox-media-db) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [nevo-david-agent-media](https://clawskills.sh/skills/nevo-david-agent-media) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [pascalwhoop-medical-clinicaltrials](https://clawskills.sh/skills/pascalwhoop-medical-clinicaltrials) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [zbreda-bio-reabilita-z](https://clawskills.sh/skills/zbreda-bio-reabilita-z) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [xsir0-google-gemini-media](https://clawskills.sh/skills/xsir0-google-gemini-media) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [duncandobbins-med-info](https://clawskills.sh/skills/duncandobbins-med-info) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [assistantheinrich-prog-session-health-monitor](https://clawskills.sh/skills/assistantheinrich-prog-session-health-monitor) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [psyb0t-mediaproc](https://clawskills.sh/skills/psyb0t-mediaproc) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [divine-comedian-myosin-hivemind](https://clawskills.sh/skills/divine-comedian-myosin-hivemind) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [clarityprotocol-clarity-clinical](https://clawskills.sh/skills/clarityprotocol-clarity-clinical) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [tryan310-social-media-manager](https://clawskills.sh/skills/tryan310-social-media-manager) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [devhoangkien-medium-writer](https://clawskills.sh/skills/devhoangkien-medium-writer) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [pharmacist9527-best-image](https://clawskills.sh/skills/pharmacist9527-best-image) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [fmdmm-wisediag-medocr](https://clawskills.sh/skills/fmdmm-wisediag-medocr) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [kiaraho-sys-guard-linux-remediator](https://clawskills.sh/skills/kiaraho-sys-guard-linux-remediator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [satoshistackalotto-system-health-check](https://clawskills.sh/skills/satoshistackalotto-system-health-check) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [iisweetheartii-agent-selfie](https://clawskills.sh/skills/iisweetheartii-agent-selfie) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [callmedas69-credential-manager](https://clawskills.sh/skills/callmedas69-credential-manager) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [cocoblood9527-para-proactive-workspace](https://clawskills.sh/skills/cocoblood9527-para-proactive-workspace) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [ctsolutionsdev-ct-health-guardian](https://clawskills.sh/skills/ctsolutionsdev-ct-health-guardian) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [trypto1019-arc-skill-health-monitor](https://clawskills.sh/skills/trypto1019-arc-skill-health-monitor) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [ryandeangraves-telegram-media](https://clawskills.sh/skills/ryandeangraves-telegram-media) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [asleep123-caldav-calendar](https://clawskills.sh/skills/asleep123-caldav-calendar) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [kanakamedalasumanth-get-kalshi-live-games](https://clawskills.sh/skills/kanakamedalasumanth-get-kalshi-live-games) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [kurinzo-tg-media-resolve](https://clawskills.sh/skills/kurinzo-tg-media-resolve) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [claudiodrusus-shelly-social-media-scheduler](https://clawskills.sh/skills/claudiodrusus-shelly-social-media-scheduler) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [danmurphy1217-nori-health](https://clawskills.sh/skills/danmurphy1217-nori-health) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [gblockchainnetwork-vps-health-auditor](https://clawskills.sh/skills/gblockchainnetwork-vps-health-auditor) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [cewinharhar-lobster-bio-dev](https://clawskills.sh/skills/cewinharhar-lobster-bio-dev) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [fabiolr-duffel](https://clawskills.sh/skills/fabiolr-duffel) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [ctsolutionsdev-egvert-health-guardian](https://clawskills.sh/skills/ctsolutionsdev-egvert-health-guardian) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [underbench2-gif-ub2-api-health-checker](https://clawskills.sh/skills/underbench2-gif-ub2-api-health-checker) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [kuan0808-social-media-ops](https://clawskills.sh/skills/kuan0808-social-media-ops) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [bowen31337-ai-media](https://clawskills.sh/skills/bowen31337-ai-media) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [cewinharhar-lobster-bio-use](https://clawskills.sh/skills/cewinharhar-lobster-bio-use) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [drug-discovery-skills](https://github.com/huifer/drug-discovery-skills) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/huifer/drug-discovery-skills?style=flat-square) | Drug Discovery Intelligence plugin for Claude Code. AI-powered target validation,  competitive intelligence, literature analysis & clinical trials insights.  Integrates Open Targets, ChEMBL, PubMed... |
+| [cheminem-pharma-pharmacology-agent](https://clawskills.sh/skills/cheminem-pharma-pharmacology-agent) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [brandonwadepackard-cell-social-media-platform](https://clawskills.sh/skills/brandonwadepackard-cell-social-media-platform) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [iisweetheartii-opencode-omo](https://clawskills.sh/skills/iisweetheartii-opencode-omo) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [g4dr-social-media-extractor](https://clawskills.sh/skills/g4dr-social-media-extractor) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [xanderrey-youtube-media-downloader](https://clawskills.sh/skills/xanderrey-youtube-media-downloader) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [yujesyoga-brevo](https://clawskills.sh/skills/yujesyoga-brevo) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [alvinecarn-media-writing](https://clawskills.sh/skills/alvinecarn-media-writing) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [bamontejano-skill-doctorbot-healthcheck-free](https://clawskills.sh/skills/bamontejano-skill-doctorbot-healthcheck-free) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [iisweetheartii-agentgram-social](https://clawskills.sh/skills/iisweetheartii-agentgram-social) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [nagellack5c-lan-media-server](https://clawskills.sh/skills/nagellack5c-lan-media-server) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [evolinkai-evolink-media](https://clawskills.sh/skills/evolinkai-evolink-media) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [iisweetheartii-agentgram](https://clawskills.sh/skills/iisweetheartii-agentgram) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [pharmacist9527-cheapest-image](https://clawskills.sh/skills/pharmacist9527-cheapest-image) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [ahmedthegeek-moltysmind](https://clawskills.sh/skills/ahmedthegeek-moltysmind) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [psmamm-social-media-agent](https://clawskills.sh/skills/psmamm-social-media-agent) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [sanjay-gthb-server-health-agent](https://clawskills.sh/skills/sanjay-gthb-server-health-agent) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [jhillin8-mindfulness-meditation](https://clawskills.sh/skills/jhillin8-mindfulness-meditation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [lyoungblood-morpho-earn](https://clawskills.sh/skills/lyoungblood-morpho-earn) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [xejrax-media-player](https://clawskills.sh/skills/xejrax-media-player) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [bilalmohamed187-cpu-gcal-pro](https://clawskills.sh/skills/bilalmohamed187-cpu-gcal-pro) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [mrummler17-repomedic](https://clawskills.sh/skills/mrummler17-repomedic) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [dinstein-media-news-digest](https://clawskills.sh/skills/dinstein-media-news-digest) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [cgtreadw-health-guardian](https://clawskills.sh/skills/cgtreadw-health-guardian) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [engahmedsalah358-lgtm-ahmed](https://clawskills.sh/skills/engahmedsalah358-lgtm-ahmed) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [seanwyngaard-social-media-content-calendar](https://clawskills.sh/skills/seanwyngaard-social-media-content-calendar) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [mudgesbot-samsung-health](https://clawskills.sh/skills/mudgesbot-samsung-health) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [djemec-bioskills](https://clawskills.sh/skills/djemec-bioskills) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [oblivisheee-wol-sleep-pc](https://clawskills.sh/skills/oblivisheee-wol-sleep-pc) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [agent-skill-bus](https://github.com/ShunsukeHayashi/agent-skill-bus) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/ShunsukeHayashi/agent-skill-bus?style=flat-square) | The missing runtime for Agent Skills — health monitoring, self-improvement, and dependency management for any AI agent framework. Zero dependencies. |
+| [openclaw-dashboard](https://github.com/ChristianAlmurr/openclaw-dashboard) | OpenClaw | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/ChristianAlmurr/openclaw-dashboard?style=flat-square) | Mission Control dashboard for monitoring and managing AI agent fleets. Track costs, performance, context health, security posture, and market intelligence. |
+| [nullhub](https://github.com/nullclaw/nullhub) | OpenClaw | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/nullclaw/nullhub?style=flat-square) | Management console for the Null ecosystem — install, configure, and monitor AI agents, orchestration workflows, task pipelines, and system health |
+| [openclaw-team-builder](https://github.com/eggyrooch-blip/openclaw-team-builder) | OpenClaw | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/eggyrooch-blip/openclaw-team-builder?style=flat-square) | AI agent team management for OpenClaw — org tree, templates, health check, auto-fix, rollback. ClawhHub Skill. |
 
 **[→ More clinical skills](categories/clinical.md)**
 
 ---
 
+| [ricardotrevisan-garmin-tracker](https://clawskills.sh/skills/ricardotrevisan-garmin-tracker) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [freakyflow-garmin-pulse](https://clawskills.sh/skills/freakyflow-garmin-pulse) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [nftechie-garmin-skill](https://clawskills.sh/skills/nftechie-garmin-skill) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
 ## Medical MCP Servers
 
 > Model Context Protocol servers providing structured access to medical databases and healthcare APIs.
@@ -96,6 +197,158 @@ Each skill is rated on three dimensions:
 | [apple-health-mcp-server](https://github.com/the-momentum/apple-health-mcp-server) | ⭐⭐ B | 🟡 Moderate | — | Access exported Apple Health data with analytics. *(Note: project has evolved into "Open Wearables" — broader multi-source health data platform)* |
 | [fulcra-context-mcp](https://github.com/fulcradynamics/fulcra-context-mcp) | ⭐ C+ | 🟡 Moderate | — | Personal biometric data: sleep, heart rate, HRV, glucose, workouts via Fulcra Life API. *(Note: sparse docs; requires Fulcra account and OAuth setup)* |
 | [verilexdata-mcp](https://github.com/carrierone/verilexdata-mcp) | ⭐ C | 🟡 Moderate | — | 20 structured datasets including NPI healthcare provider registry. Pay-per-query. *(Note: general-purpose data tool, not purely medical)* |
+| [medical-calc-mcp](https://github.com/u9401066/medical-calc-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/u9401066/medical-calc-mcp?style=flat-square) | 🏥 MCP Server with 121 validated medical calculators for AI agents. DDD architecture, evidence-based formulas with PMID citations. Supports Claude, GPT, and other LLM integrations. |
+| [openevidence-mcp](https://github.com/bakhtiersizhaev/openevidence-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/bakhtiersizhaev/openevidence-mcp?style=flat-square) | OpenEvidence MCP: open-source browser-session MCP server for human and AI-agent medical workflows |
+| [nucleus-apple-mcp](https://github.com/zish-rob-crur/nucleus-apple-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/zish-rob-crur/nucleus-apple-mcp?style=flat-square) | A macOS Model Context Protocol (MCP) server that acts as the central nervous system for your AI agent. Bridges Calendar, Reminders, Notes, and Health data using a hybrid Python + Swift architecture. |
+| [thinktankmachine-adhd-ssistant](https://clawskills.sh/skills/thinktankmachine-adhd-ssistant) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [mcp-hangar](https://github.com/mcp-hangar/mcp-hangar) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/mcp-hangar/mcp-hangar?style=flat-square) | Efficient lifecycle management for MCP servers. Hot-loading, health checks, and container orchestration for the Model Context Protocol. |
+| [jarvis](https://github.com/isair/jarvis) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/isair/jarvis?style=flat-square) | Your AI assistant that never forgets and runs 100% privately on your computer. Leave it on 24/7 - it learns your preferences, helps with code, manages your health goals, searches the web, and conne... |
+| [helixir](https://github.com/bookedsolidtech/helixir) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/bookedsolidtech/helixir?style=flat-square) | MCP server that gives AI coding agents deep knowledge of any web component library — properties, events, slots, CSS parts, design tokens, accessibility, health scoring, and more. Works with Claude,... |
+| [mcp-ssh-manager](https://github.com/bvisible/mcp-ssh-manager) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/bvisible/mcp-ssh-manager?style=flat-square) | MCP SSH Server: 37 tools for remote SSH management | Claude Code & OpenAI Codex | DevOps automation, backups, database operations, health monitoring |
+| [codescene-mcp-server](https://github.com/codescene-oss/codescene-mcp-server) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/codescene-oss/codescene-mcp-server?style=flat-square) | The CodeScene MCP Server exposes CodeScene’s Code Health analysis as local AI-friendly tools. |
+| [clinicaltrialsgov-mcp-server](https://github.com/cyanheads/clinicaltrialsgov-mcp-server) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/cyanheads/clinicaltrialsgov-mcp-server?style=flat-square) | MCP server for the ClinicalTrials.gov v2 API. Allow LLMs to search trials, retrieve study details, compare studies, analyze trends, and match patients to eligible trials. |
+| [pyomop](https://github.com/dermatologist/pyomop) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/dermatologist/pyomop?style=flat-square) | Python package for managing OHDSI clinical data models. Includes support for LLM based plain text queries, MCP server and FHIR import. |
+| [national-mcp-pai-oncology-trials](https://github.com/kevinkawchak/national-mcp-pai-oncology-trials) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/kevinkawchak/national-mcp-pai-oncology-trials?style=flat-square) | National MCP servers for Physical AI oncology clinical trial systems |
+| [langcare-mcp-fhir](https://github.com/langcare/langcare-mcp-fhir) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/langcare/langcare-mcp-fhir?style=flat-square) | Enterprise-grade MCP Server for FHIR-based EMRs, designed for robust deployments in agentic AI platforms. |
+| [mcp-snomed-ct](https://github.com/eigenbau/mcp-snomed-ct) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/eigenbau/mcp-snomed-ct?style=flat-square) | MCP server for SNOMED CT concept lookup via any FHIR R4 terminology server |
+| [healthcare-mcp-public](https://github.com/Cicatriiz/healthcare-mcp-public) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Cicatriiz/healthcare-mcp-public?style=flat-square) | A Model Context Protocol (MCP) server providing AI assistants with access to healthcare data and medical information tools, including FDA drug info, PubMed, medRxiv, NCBI Bookshelf, clinical trials... |
+| [dicom-mcp-server](https://github.com/fluxinc/dicom-mcp-server) | MCP Server | ⭐ C | 🔴 Stale | ![](https://img.shields.io/github/stars/fluxinc/dicom-mcp-server?style=flat-square) | A server for managing contextual data in DICOM tools, supporting medical imaging and machine learning workflows. |
+| [pubmed-mcp-server](https://github.com/cyanheads/pubmed-mcp-server) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/cyanheads/pubmed-mcp-server?style=flat-square) | MCP server for the NCBI E-utilities API. Search PubMed, fetch article metadata, generate citations, explore MeSH terms, and discover related research. Runs over stdio or HTTP. Deployable to Cloudfl... |
+| [pubmed-search-mcp](https://github.com/u9401066/pubmed-search-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/u9401066/pubmed-search-mcp?style=flat-square) | 🔬 Professional MCP server for biomedical literature research — 40 tools, multi-source search (PubMed, Europe PMC, CORE, OpenAlex), full-text access, citation networks, PICO analysis, and more |
+| [paper-search-mcp](https://github.com/openags/paper-search-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/openags/paper-search-mcp?style=flat-square) | A MCP for searching and downloading academic papers from multiple sources like arXiv, PubMed, bioRxiv, etc. |
+| [pm-skills](https://github.com/cookjohn/pm-skills) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/cookjohn/pm-skills?style=flat-square) | PubMed skills for Claude Code — literature search, citation export, and Zotero integration via Chrome DevTools MCP |
+| [claude-scholar](https://github.com/jessevanwyk1/claude-scholar) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/jessevanwyk1/claude-scholar?style=flat-square) | 🚀 Simplify your research workflow with Claude Scholar, the complete configuration for Claude Code in data science, AI, and academic writing. |
+| [research-workflow-assistant](https://github.com/andre-inter-collab-llc/research-workflow-assistant) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/andre-inter-collab-llc/research-workflow-assistant?style=flat-square) | Open-source AI research assistant for VS Code + GitHub Copilot. Connects to PubMed, OpenAlex, Semantic Scholar, Europe PMC, CrossRef, and Zotero via MCP servers. Custom agents guide systematic revi... |
+| [med-paper-assistant](https://github.com/u9401066/med-paper-assistant) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/u9401066/med-paper-assistant?style=flat-square) | 🔬 AI-powered medical paper writing toolkit — from PubMed search to Word export, all inside VS Code |
+| [ScienceClaw](https://github.com/beita6969/ScienceClaw) | OpenClaw | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/beita6969/ScienceClaw?style=flat-square) | 🔬🦞 A self-evolving AI research colleague for scientists. 285 skills, zero hallucination, persistent memory. |
+| [ai-writing-skills](https://github.com/HeartWise-AI/ai-writing-skills) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/HeartWise-AI/ai-writing-skills?style=flat-square) | AI-assisted academic writing skills for medical AI research |
+| [humanizer_academic](https://github.com/matsuikentaro1/humanizer_academic) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/matsuikentaro1/humanizer_academic?style=flat-square) | A Claude Code skill that removes signs of AI-generated writing from academic medical papers, making them sound more natural and professionally written. |
+| [ai-research-army](https://github.com/TerryFYL/ai-research-army) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/TerryFYL/ai-research-army?style=flat-square) | AI Research Army: 10 AI specialists collaborate autonomously in Claude Code — from raw clinical data to submission-ready medical manuscripts. |
+| [gitgoodordietrying-emergency-rescue](https://clawskills.sh/skills/gitgoodordietrying-emergency-rescue) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [gitgoodordietrying-cron-scheduling](https://clawskills.sh/skills/gitgoodordietrying-cron-scheduling) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [gitgoodordietrying-data-validation](https://clawskills.sh/skills/gitgoodordietrying-data-validation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [gitgoodordietrying-csv-pipeline](https://clawskills.sh/skills/gitgoodordietrying-csv-pipeline) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [gitgoodordietrying-git-workflows](https://clawskills.sh/skills/gitgoodordietrying-git-workflows) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [gitgoodordietrying-infra-as-code](https://clawskills.sh/skills/gitgoodordietrying-infra-as-code) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [gekacross-personal-nutrition](https://clawskills.sh/skills/gekacross-personal-nutrition) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [gitgoodordietrying-api-dev](https://clawskills.sh/skills/gitgoodordietrying-api-dev) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [tkuehnl-feed-diet](https://clawskills.sh/skills/tkuehnl-feed-diet) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [yoavfael-intermittent-fasting-skill](https://clawskills.sh/skills/yoavfael-intermittent-fasting-skill) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [gitgoodordietrying-makefile-build](https://clawskills.sh/skills/gitgoodordietrying-makefile-build) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [gitgoodordietrying-cicd-pipeline](https://clawskills.sh/skills/gitgoodordietrying-cicd-pipeline) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [gitgoodordietrying-encoding-formats](https://clawskills.sh/skills/gitgoodordietrying-encoding-formats) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [personal-health-template](https://github.com/mslavov/personal-health-template) | Claude Code | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/mslavov/personal-health-template?style=flat-square) | Personal health knowledge base template for Claude Code - track biomarkers, Apple Health data, medical documents, and research |
+| [james-southendsolutions-camino-fitness-finder](https://clawskills.sh/skills/james-southendsolutions-camino-fitness-finder) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [harrey401-lofy-fitness](https://clawskills.sh/skills/harrey401-lofy-fitness) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [dr-ralph](https://github.com/blencorp/dr-ralph) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/blencorp/dr-ralph?style=flat-square) | A Claude Code plugin for AI-assisted medical diagnostics with comprehensive symptom analysis and research-backed treatment plans. |
+| [eftalyurtseven-business-card-generation](https://clawskills.sh/skills/eftalyurtseven-business-card-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [eftalyurtseven-youtube-thumbnail-generation](https://clawskills.sh/skills/eftalyurtseven-youtube-thumbnail-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [autogame-17-qr-generator](https://clawskills.sh/skills/autogame-17-qr-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [eftalyurtseven-depth-map-generation](https://clawskills.sh/skills/eftalyurtseven-depth-map-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [foscomputerservices-fosmvvm-react-view-generator](https://clawskills.sh/skills/foscomputerservices-fosmvvm-react-view-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [wells1137-sfx-generator](https://clawskills.sh/skills/wells1137-sfx-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [martinforsulu-neo-github-readme-generator](https://clawskills.sh/skills/martinforsulu-neo-github-readme-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [vokaplok-generect-api](https://clawskills.sh/skills/vokaplok-generect-api) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [thortheai1-hash-thor-generator](https://clawskills.sh/skills/thortheai1-hash-thor-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [shoafsystems-image-and-video-generation-vydra](https://clawskills.sh/skills/shoafsystems-image-and-video-generation-vydra) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [warm-wm-volcengine-image-generate](https://clawskills.sh/skills/warm-wm-volcengine-image-generate) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [ustc-yxw-ascii-art-generator](https://clawskills.sh/skills/ustc-yxw-ascii-art-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [akhmittra-ctf-writeup-generator](https://clawskills.sh/skills/akhmittra-ctf-writeup-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [ryudi84-sovereign-api-docs-generator](https://clawskills.sh/skills/ryudi84-sovereign-api-docs-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [svkozak-sfsymbol-generator](https://clawskills.sh/skills/svkozak-sfsymbol-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [dadaniya99-zenmux-image-generation](https://clawskills.sh/skills/dadaniya99-zenmux-image-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [eftalyurtseven-brochure-design-generation](https://clawskills.sh/skills/eftalyurtseven-brochure-design-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [eftalyurtseven-eachlabs-image-generation](https://clawskills.sh/skills/eftalyurtseven-eachlabs-image-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [evolinkai-cheapest-image-generation](https://clawskills.sh/skills/evolinkai-cheapest-image-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [atyachin-lead-generation](https://clawskills.sh/skills/atyachin-lead-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [generaljerel-copilotkit-react](https://clawskills.sh/skills/generaljerel-copilotkit-react) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [jackycser-seedance-video-generation](https://clawskills.sh/skills/jackycser-seedance-video-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [parasharnagle-mindmap-generator](https://clawskills.sh/skills/parasharnagle-mindmap-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [eftalyurtseven-ai-headshot-generation](https://clawskills.sh/skills/eftalyurtseven-ai-headshot-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [wanng-ide-folder-tree-generator](https://clawskills.sh/skills/wanng-ide-folder-tree-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [calbabyjr-visa-business-planner](https://clawskills.sh/skills/calbabyjr-visa-business-planner) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [kesslerio-babyconnect](https://clawskills.sh/skills/kesslerio-babyconnect) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [deepseekoracle-recursive-generosity-protocol](https://clawskills.sh/skills/deepseekoracle-recursive-generosity-protocol) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [seanwyngaard-technical-doc-generator](https://clawskills.sh/skills/seanwyngaard-technical-doc-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [mkpareek0315-social-media-planner](https://clawskills.sh/skills/mkpareek0315-social-media-planner) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [openclaw-never-die](https://github.com/kennyzheng-builds/openclaw-never-die) | OpenClaw | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/kennyzheng-builds/openclaw-never-die?style=flat-square) | Production-ready auto-recovery system for OpenClaw Gateway. Makes AI agents as reliable as they are brilliant. 24/7 operation with automatic health monitoring, crash recovery, and smart restart logic. |
+| [underbench2-gif-ub2-markdown-report-generator](https://clawskills.sh/skills/underbench2-gif-ub2-markdown-report-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [foscomputerservices-fosmvvm-ui-tests-generator](https://clawskills.sh/skills/foscomputerservices-fosmvvm-ui-tests-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [eftalyurtseven-ar-filter-generation](https://clawskills.sh/skills/eftalyurtseven-ar-filter-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [evolinkai-best-image-generation](https://clawskills.sh/skills/evolinkai-best-image-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [eftalyurtseven-digital-twin-generation](https://clawskills.sh/skills/eftalyurtseven-digital-twin-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [cerbug45-sql-query-generator](https://clawskills.sh/skills/cerbug45-sql-query-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [shahbaz02197ali-cmd-social-media-lead-generation](https://clawskills.sh/skills/shahbaz02197ali-cmd-social-media-lead-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [cameron-jovan-email-capture-generator](https://clawskills.sh/skills/cameron-jovan-email-capture-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [eftalyurtseven-book-cover-generation](https://clawskills.sh/skills/eftalyurtseven-book-cover-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [olisim02-smart-meme-generator](https://clawskills.sh/skills/olisim02-smart-meme-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [eftalyurtseven-certificate-generation](https://clawskills.sh/skills/eftalyurtseven-certificate-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [wells1137-music-generator](https://clawskills.sh/skills/wells1137-music-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [fratua-readme-generator](https://clawskills.sh/skills/fratua-readme-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [autogame-17-auto-test-generator](https://clawskills.sh/skills/autogame-17-auto-test-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [tobisamaa-content-generation](https://clawskills.sh/skills/tobisamaa-content-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [foscomputerservices-fosmvvm-fluent-datamodel-generator](https://clawskills.sh/skills/foscomputerservices-fosmvvm-fluent-datamodel-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [holic101-pubmed2blog](https://clawskills.sh/skills/holic101-pubmed2blog) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [vonzellu-ai-3d-generator](https://clawskills.sh/skills/vonzellu-ai-3d-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [seanwyngaard-contract-generator](https://clawskills.sh/skills/seanwyngaard-contract-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [nbf819-web-pr-generator](https://clawskills.sh/skills/nbf819-web-pr-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [killgfat-pubmed-edirect](https://clawskills.sh/skills/killgfat-pubmed-edirect) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [foscomputerservices-fosmvvm-serverrequest-test-generator](https://clawskills.sh/skills/foscomputerservices-fosmvvm-serverrequest-test-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [foscomputerservices-fosmvvm-serverrequest-generator](https://clawskills.sh/skills/foscomputerservices-fosmvvm-serverrequest-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [eftalyurtseven-3d-model-generation](https://clawskills.sh/skills/eftalyurtseven-3d-model-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [foscomputerservices-fosmvvm-leaf-view-generator](https://clawskills.sh/skills/foscomputerservices-fosmvvm-leaf-view-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [generaljerel-copilotkit-runtime-patterns](https://clawskills.sh/skills/generaljerel-copilotkit-runtime-patterns) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [tarasinghrajput-curriculum-generator](https://clawskills.sh/skills/tarasinghrajput-curriculum-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [directivecreator-sideload-avatar-generator](https://clawskills.sh/skills/directivecreator-sideload-avatar-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [martinforsulu-neo-graphql-ts-generator](https://clawskills.sh/skills/martinforsulu-neo-graphql-ts-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [eftalyurtseven-app-store-screenshot-generation](https://clawskills.sh/skills/eftalyurtseven-app-store-screenshot-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [near2sea-generate-news-article](https://clawskills.sh/skills/near2sea-generate-news-article) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [jackycser-seedance-video-generation-byteplus](https://clawskills.sh/skills/jackycser-seedance-video-generation-byteplus) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [sophiaashi-general-writing](https://clawskills.sh/skills/sophiaashi-general-writing) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [clowreed-website-generator](https://clawskills.sh/skills/clowreed-website-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [xuyuan0805-xy-pubmed-pdf-downloader](https://clawskills.sh/skills/xuyuan0805-xy-pubmed-pdf-downloader) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [josunlp-pi-health](https://clawskills.sh/skills/josunlp-pi-health) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [eftalyurtseven-ai-influencer-generation](https://clawskills.sh/skills/eftalyurtseven-ai-influencer-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [ryudi84-sovereign-test-generator](https://clawskills.sh/skills/ryudi84-sovereign-test-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [darshanochandak-heartbeat-scanner](https://clawskills.sh/skills/darshanochandak-heartbeat-scanner) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [ryudi84-sovereign-api-mock-generator](https://clawskills.sh/skills/ryudi84-sovereign-api-mock-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [nhype-generate-presentation](https://clawskills.sh/skills/nhype-generate-presentation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [eftalyurtseven-album-cover-generation](https://clawskills.sh/skills/eftalyurtseven-album-cover-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [martinforsulu-neo-tf-module-generator](https://clawskills.sh/skills/martinforsulu-neo-tf-module-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [warm-wm-volcengine-video-generate](https://clawskills.sh/skills/warm-wm-volcengine-video-generate) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [foscomputerservices-fosmvvm-fields-generator](https://clawskills.sh/skills/foscomputerservices-fosmvvm-fields-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [foscomputerservices-fosmvvm-swiftui-view-generator](https://clawskills.sh/skills/foscomputerservices-fosmvvm-swiftui-view-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [eftalyurtseven-ai-avatar-generation](https://clawskills.sh/skills/eftalyurtseven-ai-avatar-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [claudiodrusus-shelly-brand-name-generator](https://clawskills.sh/skills/claudiodrusus-shelly-brand-name-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [foscomputerservices-fosmvvm-viewmodel-generator](https://clawskills.sh/skills/foscomputerservices-fosmvvm-viewmodel-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [juguangyuan520-dotcom-report-generator](https://clawskills.sh/skills/juguangyuan520-dotcom-report-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [jirispilka-apify-lead-generation](https://clawskills.sh/skills/jirispilka-apify-lead-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [brianrwagner-brw-content-idea-generator](https://clawskills.sh/skills/brianrwagner-brw-content-idea-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [tmigone-invoice-generator](https://clawskills.sh/skills/tmigone-invoice-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [vokaplok-generect](https://clawskills.sh/skills/vokaplok-generect) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [kakazhang50-tpt-generate-cover](https://clawskills.sh/skills/kakazhang50-tpt-generate-cover) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [generaljerel-copilotkit-agent-patterns](https://clawskills.sh/skills/generaljerel-copilotkit-agent-patterns) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [ide-rea-ai-ppt-generator](https://clawskills.sh/skills/ide-rea-ai-ppt-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [highlander89-ai-lead-generator-skill](https://clawskills.sh/skills/highlander89-ai-lead-generator-skill) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [elihuvillaraus-excalidraw-diagram-generator](https://clawskills.sh/skills/elihuvillaraus-excalidraw-diagram-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [foscomputerservices-fosmvvm-viewmodel-test-generator](https://clawskills.sh/skills/foscomputerservices-fosmvvm-viewmodel-test-generator) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [luruibu-beauty-generation-api](https://clawskills.sh/skills/luruibu-beauty-generation-api) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [eftalyurtseven-youtube-video-generation](https://clawskills.sh/skills/eftalyurtseven-youtube-video-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [kenera-subskill-generation-rule](https://clawskills.sh/skills/kenera-subskill-generation-rule) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [luv005-renderful-generation](https://clawskills.sh/skills/luv005-renderful-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [eftalyurtseven-eachlabs-video-generation](https://clawskills.sh/skills/eftalyurtseven-eachlabs-video-generation) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [pascalwhoop-medical-research-toolkit](https://clawskills.sh/skills/pascalwhoop-medical-research-toolkit) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [longevity-os](https://github.com/albert-ying/longevity-os) | OpenClaw | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/albert-ying/longevity-os?style=flat-square) | 太医院 — Agentic Longevity OS with 10 AI physicians. N-of-1 trials, cross-module pattern detection, PubMed-grounded insights, Bayesian causal inference. Works with Claude Code & OpenClaw. |
+| [pubcrawl](https://github.com/nickjlamb/pubcrawl) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/nickjlamb/pubcrawl?style=flat-square) | A peer-reviewed pub crawl through the literature — MCP server for PubMed & biomedical literature search |
+| [mcp-for-research](https://github.com/aringadre76/mcp-for-research) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/aringadre76/mcp-for-research?style=flat-square) | An MCP server that consolidates academic research across PubMed, Google Scholar, ArXiv, and JSTOR. Published on NPM with 5 tools. |
+| [bgpt-mcp](https://github.com/connerlambden/bgpt-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/connerlambden/bgpt-mcp?style=flat-square) | Search Paper Data from Any AI Tool |
+| [chia-mcp](https://github.com/chia-health/chia-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/chia-health/chia-mcp?style=flat-square) | Chia Health MCP Server — Patient workflow integration for a licensed US telehealth platform. Browse GLP-1 medications (semaglutide, tirzepatide), peptide therapies (sermorelin, NAD+, glutathione), ... |
+| [octo-vista-api-x-mcp-server-example](https://github.com/department-of-veterans-affairs/octo-vista-api-x-mcp-server-example) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/department-of-veterans-affairs/octo-vista-api-x-mcp-server-example?style=flat-square) | This example repository contains documentation about a Model Context Protocol (MCP) server that provides secure access to VA's VistA electronic health record (EHR) system, enabling AI applications ... |
+| [health-record-mcp](https://github.com/jmandel/health-record-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/jmandel/health-record-mcp?style=flat-square) | Connect to an EHR and make clinical data available via MCP |
+| [hana-compass-api](https://github.com/mhaihq/hana-compass-api) | MCP Server | ⭐ C | 🔴 Stale | ![](https://img.shields.io/github/stars/mhaihq/hana-compass-api?style=flat-square) | API and MCP server for all EHR integration,Med Research via a single unified API |
+| [hm_editor](https://github.com/huimeicloud/hm_editor) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/huimeicloud/hm_editor?style=flat-square) | 一款轻量级、可扩展的、跨平台的、专为医疗信息化设计的电子病历编辑器内核，为EMR（电子病历系统）提供专业的结构化病历编辑与AI接入解决方案。 |
+| [aguynextdoor-golemedin-mcp](https://clawskills.sh/skills/aguynextdoor-golemedin-mcp) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [openclaw-superpowers](https://github.com/ArchieIndian/openclaw-superpowers) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/ArchieIndian/openclaw-superpowers?style=flat-square) | 44 plug-and-play skills for OpenClaw — self-modifying AI agent with cron scheduling, security guardrails, persistent memory, knowledge graphs, and MCP health monitoring. Your agent teaches itself n... |
 
 **[→ More MCP servers](categories/mcp-servers.md)**
 
@@ -114,6 +367,8 @@ Each skill is rated on three dimensions:
 | [gget-mcp](https://github.com/longevity-genie/gget-mcp) | MCP Server | ⭐⭐ B | 🟡 Moderate | — | Bioinformatics toolkit for genomics queries wrapping the gget library. |
 | [encode-toolkit](https://github.com/ammawla/encode-toolkit) | MCP Server | ⭐⭐ B | 🟡 Moderate | — | ENCODE Project functional genomics data: 47 skills, 20 MCP tools, 7 pipelines, 14 databases. 98% test coverage. PyPI + npm. |
 | [paramus-chemistry](https://clawskills.sh/skills/gressling-paramus-chemistry) | OpenClaw | ⭐⭐ B | 🟡 Moderate | — | Hundreds of chemistry and scientific computing tools. |
+| [meddev-agent-skills](https://github.com/AminAlam/meddev-agent-skills) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/AminAlam/meddev-agent-skills?style=flat-square) | Modular “skill” files for AI coding agents working on medical device software |
+| [wanng-ide-arxiv-gamedevbench-evaluating-agentic-capabili](https://clawskills.sh/skills/wanng-ide-arxiv-gamedevbench-evaluating-agentic-capabili) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
 | [admet-prediction](https://clawskills.sh/skills/huifer-admet-prediction) | OpenClaw | ⭐⭐ B | 🟡 Moderate | — | ADMET (Absorption, Distribution, Metabolism, Excretion, Toxicity) prediction for drug candidates. |
 
 **[→ More research skills](categories/research.md)**
