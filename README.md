@@ -180,6 +180,7 @@ Each skill is rated on three dimensions:
 | [ricardotrevisan-garmin-tracker](https://clawskills.sh/skills/ricardotrevisan-garmin-tracker) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
 | [freakyflow-garmin-pulse](https://clawskills.sh/skills/freakyflow-garmin-pulse) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
 | [nftechie-garmin-skill](https://clawskills.sh/skills/nftechie-garmin-skill) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
+| [clinicalmem](https://github.com/star-ga/clinicalmem) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/star-ga/clinicalmem?style=flat-square) | Persistent, auditable clinical memory for healthcare AI agents. MCP + A2A. Powered by mind-mem and MIND Lang scoring kernels. Built for Agents Assemble Healthcare AI Hackathon. |
 ## Medical MCP Servers
 
 > Model Context Protocol servers providing structured access to medical databases and healthcare APIs.
@@ -349,6 +350,12 @@ Each skill is rated on three dimensions:
 | [hm_editor](https://github.com/huimeicloud/hm_editor) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/huimeicloud/hm_editor?style=flat-square) | 一款轻量级、可扩展的、跨平台的、专为医疗信息化设计的电子病历编辑器内核，为EMR（电子病历系统）提供专业的结构化病历编辑与AI接入解决方案。 |
 | [aguynextdoor-golemedin-mcp](https://clawskills.sh/skills/aguynextdoor-golemedin-mcp) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
 | [openclaw-superpowers](https://github.com/ArchieIndian/openclaw-superpowers) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/ArchieIndian/openclaw-superpowers?style=flat-square) | 44 plug-and-play skills for OpenClaw — self-modifying AI agent with cron scheduling, security guardrails, persistent memory, knowledge graphs, and MCP health monitoring. Your agent teaches itself n... |
+| [3dslicer-claude-bridge](https://github.com/brainbloodbarrier/3dslicer-claude-bridge) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/brainbloodbarrier/3dslicer-claude-bridge?style=flat-square) | MCP server bridging 3D Slicer with Claude Code for medical image analysis |
+| [drug-interaction-mcp](https://github.com/MOB-sys/drug-interaction-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/MOB-sys/drug-interaction-mcp?style=flat-square) | MCP server for drug-drug interaction checking. 176 evidence-based interactions from FDA/NIH. Works with Claude, ChatGPT, and any MCP-compatible AI. |
+| [mcp-icd10](https://github.com/stabgan/mcp-icd10) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/stabgan/mcp-icd10?style=flat-square) | Offline MCP server for ICD-10-CM, ICD-9-CM, ICD-10 WHO code lookup with GEMs crosswalk. 124K codes, 102K mappings. Zero API keys, zero network calls. |
+| [nexonco-mcp](https://github.com/1sustgmboab/nexonco-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/1sustgmboab/nexonco-mcp?style=flat-square) | An advanced MCP Server for accessing and analyzing clinical evidence data, with flexible search options to support precision medicine and oncology research. |
+| [apple-health-mcp](https://github.com/smarzola/apple-health-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/smarzola/apple-health-mcp?style=flat-square) | MCP server for Apple Health data — query your export with Claude |
+| [dicom_download_mcp](https://github.com/PancrePal-xiaoyibao/dicom_download_mcp) | MCP Server | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/PancrePal-xiaoyibao/dicom_download_mcp?style=flat-square) | 社区志愿者贡献的dicom CT报告下载MCP工具，协议禁止商用禁止收费使用。 |
 
 **[→ More MCP servers](categories/mcp-servers.md)**
 
@@ -370,6 +377,7 @@ Each skill is rated on three dimensions:
 | [meddev-agent-skills](https://github.com/AminAlam/meddev-agent-skills) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/AminAlam/meddev-agent-skills?style=flat-square) | Modular “skill” files for AI coding agents working on medical device software |
 | [wanng-ide-arxiv-gamedevbench-evaluating-agentic-capabili](https://clawskills.sh/skills/wanng-ide-arxiv-gamedevbench-evaluating-agentic-capabili) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
 | [admet-prediction](https://clawskills.sh/skills/huifer-admet-prediction) | OpenClaw | ⭐⭐ B | 🟡 Moderate | — | ADMET (Absorption, Distribution, Metabolism, Excretion, Toxicity) prediction for drug candidates. |
+| [pubmed-gemini-extension](https://github.com/avivlyweb/pubmed-gemini-extension) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/avivlyweb/pubmed-gemini-extension?style=flat-square) | PubMed MCP server for Gemini CLI - PhD-level medical research analysis |
 
 **[→ More research skills](categories/research.md)**
 
