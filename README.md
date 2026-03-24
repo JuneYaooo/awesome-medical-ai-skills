@@ -364,6 +364,9 @@ Each skill is rated on three dimensions:
 | [health-mcp-server](https://github.com/AiAgentKarl/health-mcp-server) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/AiAgentKarl/health-mcp-server?style=flat-square) | Health and medical data for AI agents |
 | [mesh-mcp](https://github.com/msuicaut/mesh-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/msuicaut/mesh-mcp?style=flat-square) | An experimental MCP (Model Context Protocol) server connecting Claude to the U.S. National Library of Medicine (NLM) Medical Subject Headings (MeSH) linked data APIs, built to investigate the poten... |
 | [amed-research-db](https://github.com/inutano/amed-research-db) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/inutano/amed-research-db?style=flat-square) | AMED (Japan Agency for Medical Research and Development) research project database with REST API, MCP server, and analytics. ~3,800 projects from 2015-2025. |
+| [dicom-mcp](https://github.com/sscotti/dicom-mcp) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/sscotti/dicom-mcp?style=flat-square) | DICOM + FHIR MCP server and local dev stack for Orthanc/PACS workflows. Query studies, read encapsulated PDF reports, move images, manage mini-RIS orders, and test against bundled Docker services. |
+| [HealthBridge MCP Server](https://github.com/Fulcria-Labs/healthbridge) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/Fulcria-Labs/healthbridge?style=flat-square) | Clinical decision support MCP with 29 validated tools for drug interactions, risk scores, lab interpretation, renal/pediatric dosing, IV compatibility, pregnancy safety, opioid MEDD, and FHIR patient summaries. |
+| [CzechMedMCP](https://github.com/petrsovadina/CzechMedMCP) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/petrsovadina/CzechMedMCP?style=flat-square) | 60-tool MCP server bridging Czech and global healthcare sources: SUKL, ICD-10, provider registries, PubMed, ClinicalTrials.gov, OpenFDA, and genomics APIs. Includes tests, Docker, and hosted docs. |
 
 **[→ More MCP servers](categories/mcp-servers.md)**
 
@@ -401,6 +404,7 @@ Each skill is rated on three dimensions:
 | Skill | Platform | Grade | Maintenance | Stars | Description |
 |-------|----------|-------|-------------|-------|-------------|
 | [wiseocr](https://clawskills.sh/skills/wiseocr) | OpenClaw | ⭐ C | 🟡 Moderate | — | PDF to Markdown with medical document OCR support. *(Link may be broken)* |
+| [medical-image-analysis-skills](https://github.com/HenryLau7/medical-image-analysis-skills) | OpenClaw / Multi | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/HenryLau7/medical-image-analysis-skills?style=flat-square) | Portable medical imaging skill bundles for DICOM/NIfTI inspection, orientation normalization, resampling, intensity normalization, and segmentation-mask QC. Includes `SKILL.md` contracts, scripts, docs, and bilingual README. |
 
 > 💡 For standalone medical imaging AI projects (MedRAX, EasyLung, etc.), see [awesome-medical-ai](https://github.com/JuneYaooo/awesome-medical-ai#medical-imaging--radiology). Also see: [DICOM MCP](#medical-mcp-servers) for PACS integration.
 
@@ -413,6 +417,7 @@ Each skill is rated on three dimensions:
 | Skill | Platform | Grade | Maintenance | Stars | Description |
 |-------|----------|-------|-------------|-------|-------------|
 | [maccabi-pharm-search](https://clawskills.sh/skills/alexpolonsky-maccabi-pharm-search) | OpenClaw | ⭐⭐ B | 🟡 Moderate | — | Check medication stock at Maccabi pharmacies in Israel. |
+| [PharmacyMCP](https://github.com/wkurzatz/PharmacyMCP) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/wkurzatz/PharmacyMCP?style=flat-square) | Health Canada Drug Product Database MCP with 15 tools, 4 resources, and 4 prompts for drug lookup by DIN, brand, ingredient, therapeutic class, status, packaging, route, and veterinary species. |
 
 > Also see: [BioMCP](#medical-mcp-servers) (ChEMBL, drug-gene interactions), [medical-mcp](#medical-mcp-servers) (FDA drugs, RxNorm), [admet-prediction](#biomedical-research--genomics) (ADMET prediction)
 
