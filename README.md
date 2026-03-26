@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--25-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--26-blue.svg)](#)
 [![Skills Count](https://img.shields.io/badge/Skills-100%2B-green.svg)](#)
 
 > 🇨🇳 **Looking for China-accessible skills?** See [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — 国内版：关注网络可达性、中文支持、国内平台生态
@@ -381,6 +381,7 @@ Each skill is rated on three dimensions:
 | Skill | Platform | Grade | Maintenance | Stars | Description |
 |-------|----------|-------|-------------|-------|-------------|
 | [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | Claude Code / Multi | ⭐⭐⭐ A | 🟢 Active | ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills?style=flat-square) | 170+ scientific skill definitions (SKILL.md format) covering bioinformatics, cheminformatics, proteomics, clinical research, medical imaging. Install via agent platform (Claude Code, Cursor, Codex, Gemini CLI) — not standalone executables. 250+ database references. |
+| [OpenBioMed Skills](https://github.com/PharMolix/OpenBioMed) | Claude Code / Multi | ⭐⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/PharMolix/OpenBioMed?style=flat-square) | Biomedical agent platform from PharMolix + AIR, Tsinghua with 45 installable skills for drug discovery, protein engineering, and single-cell omics. Repo includes `skills/` definitions, Python package, workflows, and docs. |
 | [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) | OpenClaw | ⭐⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills?style=flat-square) | 869 medical AI agent skill definitions (SKILL.md format): clinical workflows, genomics, drug discovery, bioinformatics, regulatory compliance. Install via OpenClaw/NanoClaw platform. |
 | [ClawBio](https://github.com/ClawBio/ClawBio) | OpenClaw | ⭐⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/ClawBio/ClawBio?style=flat-square) | Bioinformatics-native OpenClaw skill library with 39 local-first skills plus Galaxy tool integration for genomics, pharmacogenomics, polygenic risk scoring, and UK Biobank workflows. |
 | [bioSkills](https://github.com/GPTomics/bioSkills) | Claude Code / Multi | ⭐⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/GPTomics/bioSkills?style=flat-square) | SKILLS.md collection for common bioinformatics workflows across Claude Code, Codex, Gemini, and OpenClaw. Covers sequence analysis, single-cell RNA-seq, population genetics, and more. |
