@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--28-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--29-blue.svg)](#)
 [![Skills Count](https://img.shields.io/badge/Skills-100%2B-green.svg)](#)
 
 > 🇨🇳 **Looking for China-accessible skills?** See [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — 国内版：关注网络可达性、中文支持、国内平台生态
@@ -197,6 +197,7 @@ Each skill is rated on three dimensions:
 | [WSO2 FHIR MCP](https://github.com/wso2/fhir-mcp-server) | ⭐⭐⭐ A- | 🟢 Active | ![](https://img.shields.io/github/stars/wso2/fhir-mcp-server?style=flat-square) | Enterprise FHIR bridge for AI agents with SMART-on-FHIR OAuth. Tested with Epic EHR. Multiple transports (stdio, SSE, HTTP). Docker + PyPI. Apache 2.0. |
 | [FHIR MCP Server (Momentum)](https://github.com/the-momentum/fhir-mcp-server) | ⭐⭐ B | 🟡 Moderate | — | Connects AI agents to FHIR servers; query patient history in natural language. |
 | [DICOM MCP](https://github.com/ChristianHinge/dicom-mcp) | ⭐⭐ B+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/ChristianHinge/dicom-mcp?style=flat-square) | Query, read, and move medical images/reports from PACS. Only MCP server targeting DICOM infrastructure. PyPI: `dicom-mcp`. |
+| [MOSAICX](https://github.com/DIGIT-X-Lab/MOSAICX) | ⭐⭐ B+ | 🟢 Active | ![](https://img.shields.io/github/stars/DIGIT-X-Lab/MOSAICX?style=flat-square) | Local-first clinical-document extraction toolkit with radiology/pathology JSON pipelines, de-identification, patient timeline summarization, and optional MCP server integration. Ships with Docker, PyPI install, and extensive tests/docs. |
 | [OMOP MCP](https://github.com/OHNLP/omop_mcp) | ⭐⭐ B | 🟡 Moderate | — | Map clinical terminology to OMOP concepts using LLMs for healthcare data standardization. |
 | [OMOPHub MCP](https://github.com/OMOPHub/omophub-mcp) | ⭐⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/OMOPHub/omophub-mcp?style=flat-square) | Production-ready MCP server for OHDSI vocabularies. Search and map SNOMED CT, ICD-10, RxNorm, LOINC, and other OMOP concepts from any MCP client via the hosted OMOPHub API. |
 | [mcp-simple-pubmed](https://github.com/andybrandt/mcp-simple-pubmed) | ⭐⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/andybrandt/mcp-simple-pubmed?style=flat-square) | Search and read medical/life sciences papers from PubMed. Simple and focused. |
