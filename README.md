@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--29-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--30-blue.svg)](#)
 [![Skills Count](https://img.shields.io/badge/Skills-100%2B-green.svg)](#)
 
 > 🇨🇳 **Looking for China-accessible skills?** See [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — 国内版：关注网络可达性、中文支持、国内平台生态
@@ -417,6 +417,7 @@ Each skill is rated on three dimensions:
 |-------|----------|-------|-------------|-------|-------------|
 | [wiseocr](https://clawskills.sh/skills/wiseocr) | OpenClaw | ⭐ C | 🟡 Moderate | — | PDF to Markdown with medical document OCR support. *(Link may be broken)* |
 | [medical-image-analysis-skills](https://github.com/HenryLau7/medical-image-analysis-skills) | OpenClaw / Multi | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/HenryLau7/medical-image-analysis-skills?style=flat-square) | Portable medical imaging skill bundles for DICOM/NIfTI inspection, orientation normalization, resampling, intensity normalization, and segmentation-mask QC. Includes `SKILL.md` contracts, scripts, docs, and bilingual README. |
+| [med-guide](https://github.com/burakcanpolat/med-guide) | Claude Code / Multi | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/burakcanpolat/med-guide?style=flat-square) | MedGemma-powered AI-editor workflow for X-ray/CT/MRI/DICOM review, lab-result interpretation, and drug-interaction checks. Ships setup guides, scripts, CI, and local report generation. |
 
 > 💡 For standalone medical imaging AI projects (MedRAX, EasyLung, etc.), see [awesome-medical-ai](https://github.com/JuneYaooo/awesome-medical-ai#medical-imaging--radiology). Also see: [DICOM MCP](#medical-mcp-servers) for PACS integration.
 
@@ -430,6 +431,7 @@ Each skill is rated on three dimensions:
 |-------|----------|-------|-------------|-------|-------------|
 | [maccabi-pharm-search](https://clawskills.sh/skills/alexpolonsky-maccabi-pharm-search) | OpenClaw | ⭐⭐ B | 🟡 Moderate | — | Check medication stock at Maccabi pharmacies in Israel. |
 | [PharmacyMCP](https://github.com/wkurzatz/PharmacyMCP) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/wkurzatz/PharmacyMCP?style=flat-square) | Health Canada Drug Product Database MCP with 15 tools, 4 resources, and 4 prompts for drug lookup by DIN, brand, ingredient, therapeutic class, status, packaging, route, and veterinary species. |
+| [kpic-mcp](https://github.com/antegral/kpic-mcp) | MCP Server | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/antegral/kpic-mcp?style=flat-square) | TypeScript MCP server for Korea Pharmaceutical Information Center drug lookup. Supports name search, detailed medication records, tests, CI, and Claude Desktop config. |
 | [DrugClaw](https://github.com/DrugClaw/DrugClaw) | CLI / Web UI | ⭐⭐ B- | 🟢 Active | ![](https://img.shields.io/github/stars/DrugClaw/DrugClaw?style=flat-square) | Local drug-discovery research assistant with tool use, memory, scheduler, web UI, and domain skills for docking, QSAR, ADMET, and prioritization workflows. |
 
 > Also see: [BioMCP](#medical-mcp-servers) (ChEMBL, drug-gene interactions), [medical-mcp](#medical-mcp-servers) (FDA drugs, RxNorm), [admet-prediction](#biomedical-research--genomics) (ADMET prediction)
@@ -447,6 +449,7 @@ Each skill is rated on three dimensions:
 | [gevety](https://clawskills.sh/skills/moclippa-gevety) | OpenClaw | ⭐⭐ B | 🟡 Moderate | Biomarkers, healthspan scores, biological age data. |
 | **Apple Health** | | | | |
 | [apple-health-skill](https://clawskills.sh/skills/nftechie-apple-health-skill) | OpenClaw | ⭐⭐ B | 🟢 Active | Query Apple Health data — workouts, heart rate, activity rings, fitness trends. |
+| [apple-health-analyst](https://github.com/RuochenLyu/apple-health-analyst) | Claude Code / Multi | ⭐⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/RuochenLyu/apple-health-analyst?style=flat-square) Local Apple Health export analyzer that generates bilingual HTML reports with correlation analysis, behavior-pattern detection, and explainable recovery/activity scoring. |
 | [healthkit-sync](https://clawskills.sh/skills/mneves75-healthkit-sync) | OpenClaw | ⭐⭐ B | 🟡 Moderate | iOS HealthKit data sync CLI commands. |
 | **Garmin** | | | | |
 | [garmin-health](https://clawskills.sh/skills/eversonl-garmin-health-analysis) | OpenClaw | ⭐⭐ B | 🟢 Active | Natural language Garmin data — 20+ metrics: sleep, HRV, VO2max, body battery, SPO2. |
