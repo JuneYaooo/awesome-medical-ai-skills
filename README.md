@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--30-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--31-blue.svg)](#)
 [![Skills Count](https://img.shields.io/badge/Skills-100%2B-green.svg)](#)
 
 > 🇨🇳 **Looking for China-accessible skills?** See [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — 国内版：关注网络可达性、中文支持、国内平台生态
@@ -454,6 +454,7 @@ Each skill is rated on three dimensions:
 | **Garmin** | | | | |
 | [garmin-health](https://clawskills.sh/skills/eversonl-garmin-health-analysis) | OpenClaw | ⭐⭐ B | 🟢 Active | Natural language Garmin data — 20+ metrics: sleep, HRV, VO2max, body battery, SPO2. |
 | [garmin-cli](https://clawskills.sh/skills/voydz-garmin-cli) | OpenClaw | ⭐⭐ B | 🟡 Moderate | Garmin Connect health/activity data via CLI. |
+| [garmin-givemydata](https://github.com/nrvim/garmin-givemydata) | MCP Server | ⭐⭐ B- | 🟢 Active | ![](https://img.shields.io/github/stars/nrvim/garmin-givemydata?style=flat-square) Local Garmin Connect extractor that writes health and activity data into SQLite and exposes it through an MCP server for Claude Code. Ships with CI, PyPI packaging, and cross-platform setup scripts. |
 | [garmin-connect](https://clawskills.sh/skills/garmin-connect) | OpenClaw | ⭐ C | 🟡 Moderate | Garmin Connect auto-sync every 5 minutes. *(Link may be broken)* |
 | **Fitbit** | | | | |
 | [fitbit](https://clawskills.sh/skills/mjrussell-fitbit) | OpenClaw | ⭐⭐ B | 🟢 Active | Query Fitbit sleep, heart rate, activity, SpO2. |
