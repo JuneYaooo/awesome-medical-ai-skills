@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--03--31-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--01-blue.svg)](#)
 [![Skills Count](https://img.shields.io/badge/Skills-100%2B-green.svg)](#)
 
 > 🇨🇳 **Looking for China-accessible skills?** See [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — 国内版：关注网络可达性、中文支持、国内平台生态
@@ -220,6 +220,8 @@ Each skill is rated on three dimensions:
 | [national-mcp-pai-oncology-trials](https://github.com/kevinkawchak/national-mcp-pai-oncology-trials) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/kevinkawchak/national-mcp-pai-oncology-trials?style=flat-square) | National MCP servers for Physical AI oncology clinical trial systems |
 | [langcare-mcp-fhir](https://github.com/langcare/langcare-mcp-fhir) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/langcare/langcare-mcp-fhir?style=flat-square) | Enterprise-grade MCP Server for FHIR-based EMRs, designed for robust deployments in agentic AI platforms. |
 | [mcp-fhir-patient-index](https://github.com/Shaumik-Ashraf/mcp-fhir-patient-index) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Shaumik-Ashraf/mcp-fhir-patient-index?style=flat-square) | Rails 8 master patient index with built-in FHIR R4 API, MCP server, web UI, CI, and Inferno test instructions. Early-stage but technically solid reference stack for patient lookup workflows. |
+| [clinical-decision-support-mcp](https://github.com/avadh-pro/clinical-decision-support-mcp) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/avadh-pro/clinical-decision-support-mcp?style=flat-square) | FHIR-backed clinical decision support MCP with patient lookup, risk-factor summarization, drug-allergy checking, Docker setup, tests, and demo patient data for local evaluation. |
+| [medrecon](https://github.com/astraedus/medrecon) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/astraedus/medrecon?style=flat-square) | Medication-reconciliation MCP/A2A system built on FHIR. Includes clinician and patient agent flows, TypeScript services, local demo setup, and reconciliation artifacts for care-transition workflows. |
 | [mcp-snomed-ct](https://github.com/eigenbau/mcp-snomed-ct) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/eigenbau/mcp-snomed-ct?style=flat-square) | MCP server for SNOMED CT concept lookup via any FHIR R4 terminology server |
 | [healthcare-mcp-public](https://github.com/Cicatriiz/healthcare-mcp-public) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Cicatriiz/healthcare-mcp-public?style=flat-square) | A Model Context Protocol (MCP) server providing AI assistants with access to healthcare data and medical information tools, including FDA drug info, PubMed, medRxiv, NCBI Bookshelf, clinical trials... |
 | [dicom-mcp-server](https://github.com/fluxinc/dicom-mcp-server) | MCP Server | ⭐ C | 🔴 Stale | ![](https://img.shields.io/github/stars/fluxinc/dicom-mcp-server?style=flat-square) | A server for managing contextual data in DICOM tools, supporting medical imaging and machine learning workflows. |
@@ -432,6 +434,7 @@ Each skill is rated on three dimensions:
 | [maccabi-pharm-search](https://clawskills.sh/skills/alexpolonsky-maccabi-pharm-search) | OpenClaw | ⭐⭐ B | 🟡 Moderate | — | Check medication stock at Maccabi pharmacies in Israel. |
 | [PharmacyMCP](https://github.com/wkurzatz/PharmacyMCP) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/wkurzatz/PharmacyMCP?style=flat-square) | Health Canada Drug Product Database MCP with 15 tools, 4 resources, and 4 prompts for drug lookup by DIN, brand, ingredient, therapeutic class, status, packaging, route, and veterinary species. |
 | [kpic-mcp](https://github.com/antegral/kpic-mcp) | MCP Server | ⭐ C+ | 🟡 Moderate | ![](https://img.shields.io/github/stars/antegral/kpic-mcp?style=flat-square) | TypeScript MCP server for Korea Pharmaceutical Information Center drug lookup. Supports name search, detailed medication records, tests, CI, and Claude Desktop config. |
+| [hypokrates](https://github.com/bruno-portfolio/hypokrates) | Python / MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/bruno-portfolio/hypokrates?style=flat-square) | Public-health and pharmacovigilance toolkit that normalizes WHO/GHO, Our World in Data, and FDA adverse-event datasets, with MCP exposure for agentic analysis and cross-dataset lookups. |
 | [DrugClaw](https://github.com/DrugClaw/DrugClaw) | CLI / Web UI | ⭐⭐ B- | 🟢 Active | ![](https://img.shields.io/github/stars/DrugClaw/DrugClaw?style=flat-square) | Local drug-discovery research assistant with tool use, memory, scheduler, web UI, and domain skills for docking, QSAR, ADMET, and prioritization workflows. |
 
 > Also see: [BioMCP](#medical-mcp-servers) (ChEMBL, drug-gene interactions), [medical-mcp](#medical-mcp-servers) (FDA drugs, RxNorm), [admet-prediction](#biomedical-research--genomics) (ADMET prediction)
@@ -543,6 +546,7 @@ Each skill is rated on three dimensions:
 | Skill | Platform | Grade | Description |
 |-------|----------|-------|-------------|
 | [capa-officer](https://clawskills.sh/skills/alirezarezvani-capa-officer) | OpenClaw | ⭐⭐ B | CAPA system management for medical device QMS (Quality Management System). |
+| [samd-qms-workflow](https://github.com/jcafazzo/samd-qms-workflow) | Claude Code | ⭐ C+ | ISO 13485 / IEC 62304 / ISO 14971 workflow skill for SaMD teams, with stage-gated prompts, compliance artifacts, and AI/GenAI change-control guidance. ![](https://img.shields.io/github/stars/jcafazzo/samd-qms-workflow?style=flat-square) |
 
 > Also see: [OpenClaw-Medical-Skills](#biomedical-research--genomics) includes FDA, CE mark, IEC 62304, ISO 14971 compliance skills.
 
