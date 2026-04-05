@@ -2,7 +2,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--04-blue.svg)](#)
+[![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--04--05-blue.svg)](#)
 [![Skills Count](https://img.shields.io/badge/Skills-100%2B-green.svg)](#)
 
 > 🇨🇳 **Looking for China-accessible skills?** See [awesome-medical-ai-skills-cn](https://github.com/JuneYaooo/awesome-medical-ai-skills-cn) — 国内版：关注网络可达性、中文支持、国内平台生态
@@ -77,6 +77,8 @@ Each skill is rated on three dimensions:
 | [ICD-10-CM Auto-Coding Skill](https://github.com/EricFu1120/icd10cm-codes-skill) | Claude Code / Multi | ⭐⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/EricFu1120/icd10cm-codes-skill?style=flat-square) | Agentic medical coding skill built around the full FY2025 ICD-10-CM index, tabular list, and official guidelines. Includes Python search/validation scripts, deterministic workflow, audit trail, and 12 worked examples. |
 | [ABA Clinical Agent](https://github.com/open-behavior-analysis/aba-clinical-agent) | Claude Code | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/open-behavior-analysis/aba-clinical-agent?style=flat-square) | Applied Behavior Analysis clinical-supervision automation suite with 29 Claude Code skills and an Obsidian knowledge base covering intake, assessment, planning, de-identification, supervision, and reporting. |
 | [health-skill](https://github.com/googlarz/health-skill) | Claude Code / Cowork | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/googlarz/health-skill?style=flat-square) | Local-first health workspace for record organization, lab/context review, appointment prep, caregiver workflows, review queues, and continuity across sessions. Ships scripts and tests. |
+| [informed-patient](https://github.com/DrCatHicks/informed-patient) | Claude Code | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/DrCatHicks/informed-patient?style=flat-square) | Claude Code plugin that guides a structured symptom interview, literature search, evidence-red-flag review, and appointment-ready health evidence report with transparent search terms and source checks. |
+| [samurai-skills](https://github.com/HealthSamurai/samurai-skills) | Claude Code | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/HealthSamurai/samurai-skills?style=flat-square) | Claude Code plugin for healthcare development on Health Samurai products: Aidbox FHIR platform workflows, SQL on FHIR, FHIR type generation, and health-samurai.io docs search. |
 | [WellAlly-health](https://github.com/huifer/WellAlly-health) | Claude Code | ⭐ C+ | 🟡 Moderate | — | File-based personal health record management. 13 specialist consultation simulations, drug interaction detection, radiation dose tracking. Bilingual CN/EN. *(Formerly Claude-Ally-Health)* |
 | [personas (Dr. Med)](https://clawskills.sh/skills/personas) | OpenClaw | ⭐ C | 🟡 Moderate | — | 31 AI personas including Dr. Med role for medical domain consultation. *(Link may be broken)* |
 | [claude-health](https://github.com/tw93/claude-health) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/tw93/claude-health?style=flat-square) | 🤫 Claude Code skill: audit your Claude Code config health across all layers |
