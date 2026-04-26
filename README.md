@@ -436,6 +436,7 @@ Each skill is rated on three dimensions:
 | [wanng-ide-arxiv-gamedevbench-evaluating-agentic-capabili](https://clawskills.sh/skills/wanng-ide-arxiv-gamedevbench-evaluating-agentic-capabili) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
 | [admet-prediction](https://clawskills.sh/skills/huifer-admet-prediction) | OpenClaw | ⭐⭐ B | 🟡 Moderate | — | ADMET (Absorption, Distribution, Metabolism, Excretion, Toxicity) prediction for drug candidates. |
 | [pubmed-gemini-extension](https://github.com/avivlyweb/pubmed-gemini-extension) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/avivlyweb/pubmed-gemini-extension?style=flat-square) | PubMed MCP server for Gemini CLI - PhD-level medical research analysis |
+| [Zotero Keeper](https://github.com/u9401066/zotero-keeper) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/u9401066/zotero-keeper?style=flat-square) | Local-first MCP server for Zotero and PubMed workflows. Adds DOI/PMID import, duplicate checks, collection browsing, and VS Code one-click install with bilingual docs and CI. |
 
 **[→ More research skills](categories/research.md)**
 
