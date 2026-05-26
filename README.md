@@ -194,6 +194,7 @@ Each skill is rated on three dimensions:
 | [freakyflow-garmin-pulse](https://clawskills.sh/skills/freakyflow-garmin-pulse) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
 | [nftechie-garmin-skill](https://clawskills.sh/skills/nftechie-garmin-skill) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
 | [clinicalmem](https://github.com/star-ga/clinicalmem) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/star-ga/clinicalmem?style=flat-square) | Persistent, auditable clinical memory for healthcare AI agents. MCP + A2A. Powered by mind-mem and MIND Lang scoring kernels. Built for Agents Assemble Healthcare AI Hackathon. |
+| [medharness](https://github.com/charliehzm/medharness) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/charliehzm/medharness?style=flat-square) | Harness Engineering for Medical AI Coding · HIPAA + PIPL compliant · 12-step SOP + 5-step micro + 23 Skills + 8 MCP servers · Apache 2.0 |
 ## Medical MCP Servers
 
 > Model Context Protocol servers providing structured access to medical databases and healthcare APIs.
@@ -436,6 +437,7 @@ Each skill is rated on three dimensions:
 | [wanng-ide-arxiv-gamedevbench-evaluating-agentic-capabili](https://clawskills.sh/skills/wanng-ide-arxiv-gamedevbench-evaluating-agentic-capabili) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
 | [admet-prediction](https://clawskills.sh/skills/huifer-admet-prediction) | OpenClaw | ⭐⭐ B | 🟡 Moderate | — | ADMET (Absorption, Distribution, Metabolism, Excretion, Toxicity) prediction for drug candidates. |
 | [pubmed-gemini-extension](https://github.com/avivlyweb/pubmed-gemini-extension) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/avivlyweb/pubmed-gemini-extension?style=flat-square) | PubMed MCP server for Gemini CLI - PhD-level medical research analysis |
+| [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=flat-square) | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
 | [Zotero Keeper](https://github.com/u9401066/zotero-keeper) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/u9401066/zotero-keeper?style=flat-square) | Local-first MCP server for Zotero and PubMed workflows. Adds DOI/PMID import, duplicate checks, collection browsing, and VS Code one-click install with bilingual docs and CI. |
 
 **[→ More research skills](categories/research.md)**
