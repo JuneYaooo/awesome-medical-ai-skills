@@ -440,6 +440,7 @@ Each skill is rated on three dimensions:
 | [pubmed-gemini-extension](https://github.com/avivlyweb/pubmed-gemini-extension) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/avivlyweb/pubmed-gemini-extension?style=flat-square) | PubMed MCP server for Gemini CLI - PhD-level medical research analysis |
 | [scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/K-Dense-AI/scientific-agent-skills?style=flat-square) | A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing. |
 | [Zotero Keeper](https://github.com/u9401066/zotero-keeper) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/u9401066/zotero-keeper?style=flat-square) | Local-first MCP server for Zotero and PubMed workflows. Adds DOI/PMID import, duplicate checks, collection browsing, and VS Code one-click install with bilingual docs and CI. |
+| [k-dense-byok](https://github.com/K-Dense-AI/k-dense-byok) | Claude Code / Multi | ⭐⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/K-Dense-AI/k-dense-byok?style=flat-square) | AI co-scientist powered by Scientific Agent Skills running on desktop — bioinformatics, clinical research, and medical imaging workflows with local execution. |
 
 **[→ More research skills](categories/research.md)**
 
