@@ -195,6 +195,7 @@ Each skill is rated on three dimensions:
 | [nftechie-garmin-skill](https://clawskills.sh/skills/nftechie-garmin-skill) | OpenClaw | ⭐ C | 🟡 Moderate | — | *(no description)* |
 | [clinicalmem](https://github.com/star-ga/clinicalmem) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/star-ga/clinicalmem?style=flat-square) | Persistent, auditable clinical memory for healthcare AI agents. MCP + A2A. Powered by mind-mem and MIND Lang scoring kernels. Built for Agents Assemble Healthcare AI Hackathon. |
 | [medharness](https://github.com/charliehzm/medharness) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/charliehzm/medharness?style=flat-square) | Harness Engineering for Medical AI Coding · HIPAA + PIPL compliant · 12-step SOP + 5-step micro + 23 Skills + 8 MCP servers · Apache 2.0 |
+| [MedSkillOS](https://github.com/albertcheng19/MedSkillOS) | Claude Code | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/albertcheng19/MedSkillOS?style=flat-square) | Medical-grade agent skills for clinical and biomedical workflows. Provides curated skills for diagnostic reasoning, literature retrieval, and patient data analysis. |
 ## Medical MCP Servers
 
 > Model Context Protocol servers providing structured access to medical databases and healthcare APIs.
@@ -400,6 +401,7 @@ Each skill is rated on three dimensions:
 | [dicom-mcp](https://github.com/sscotti/dicom-mcp) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/sscotti/dicom-mcp?style=flat-square) | DICOM + FHIR MCP server and local dev stack for Orthanc/PACS workflows. Query studies, read encapsulated PDF reports, move images, manage mini-RIS orders, and test against bundled Docker services. |
 | [HealthBridge MCP Server](https://github.com/Fulcria-Labs/healthbridge) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/Fulcria-Labs/healthbridge?style=flat-square) | Clinical decision support MCP with 29 validated tools for drug interactions, risk scores, lab interpretation, renal/pediatric dosing, IV compatibility, pregnancy safety, opioid MEDD, and FHIR patient summaries. |
 | [CzechMedMCP](https://github.com/petrsovadina/CzechMedMCP) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/petrsovadina/CzechMedMCP?style=flat-square) | 60-tool MCP server bridging Czech and global healthcare sources: SUKL, ICD-10, provider registries, PubMed, ClinicalTrials.gov, OpenFDA, and genomics APIs. Includes tests, Docker, and hosted docs. |
+| [Huawei Health MCP](https://github.com/SabaTech-dev/huawei-health-mcp) | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/SabaTech-dev/huawei-health-mcp?style=flat-square) | MCP Server for Huawei Health Kit — connect your Huawei Watch health data to AI agents via Model Context Protocol. |
 
 **[→ More MCP servers](categories/mcp-servers.md)**
 
@@ -590,6 +592,7 @@ Each skill is rated on three dimensions:
 | [samd-qms-workflow](https://github.com/jcafazzo/samd-qms-workflow) | Claude Code | ⭐ C+ | ISO 13485 / IEC 62304 / ISO 14971 workflow skill for SaMD teams, with stage-gated prompts, compliance artifacts, and AI/GenAI change-control guidance. ![](https://img.shields.io/github/stars/jcafazzo/samd-qms-workflow?style=flat-square) |
 | [iec62366-usability-skill](https://github.com/sven-jungmann/iec62366-usability-skill) | Claude Code | ⭐ C+ | Claude Code skill for IEC 62366-1/2 usability-engineering workflows in SaMD and health software. Generates audit-ready artifacts, use-related risk analysis, and usability-test protocols for EU MDR and FDA-aligned teams. ![](https://img.shields.io/github/stars/sven-jungmann/iec62366-usability-skill?style=flat-square) |
 | [International Health Law MCP](https://github.com/Ansvar-Systems/international-health-law-mcp) | MCP Server | ⭐ C+ | Structured MCP database for WHO, ICH, IMDRF, Declaration of Helsinki, and Codex provisions for regulatory, pharma, and medical-device compliance workflows. ![](https://img.shields.io/github/stars/Ansvar-Systems/international-health-law-mcp?style=flat-square) |
+| [HealthClawGuardrails](https://github.com/aks129/HealthClawGuardrails) | OpenClaw | ⭐ C | Security layer between AI agents and clinical data. A healthclaw.io open source project for healthcare AI guardrails. |
 
 > Also see: [OpenClaw-Medical-Skills](#biomedical-research--genomics) includes FDA, CE mark, IEC 62304, ISO 14971 compliance skills.
 
@@ -645,6 +648,8 @@ Each skill is rated on three dimensions:
 | [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | ![](https://img.shields.io/github/stars/ComposioHQ/awesome-claude-skills?style=flat-square) | Few | Curated Claude skills; limited medical content. |
 | [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | ![](https://img.shields.io/github/stars/sickn33/antigravity-awesome-skills?style=flat-square) | Some | 1,304+ agentic skills for multiple platforms. |
 | [awesome-medical-mcp-servers](https://github.com/sunanhe/awesome-medical-mcp-servers) | ![](https://img.shields.io/github/stars/sunanhe/awesome-medical-mcp-servers?style=flat-square) | 30+ | Curated collection of Medical MCP servers across clinical, research, and healthcare domains. |
+| [awesome-bio-agent-skills](https://github.com/BioTender-max/awesome-bio-agent-skills) | ![](https://img.shields.io/github/stars/BioTender-max/awesome-bio-agent-skills?style=flat-square) | 15+ | Curated collection of AI agent skills for biomedical research covering genomics, proteomics, single-cell analysis, and drug discovery workflows. |
+| [tula](https://github.com/realactivity/tula) | ![](https://img.shields.io/github/stars/realactivity/tula?style=flat-square) | 10+ | Open-source collection of OpenClaw skills, configurations, and patterns for transforming clinical and biomedical workflows with AI agents. |
 
 ---
 
