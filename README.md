@@ -196,6 +196,7 @@ Each skill is rated on three dimensions:
 | [clinicalmem](https://github.com/star-ga/clinicalmem) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/star-ga/clinicalmem?style=flat-square) | Persistent, auditable clinical memory for healthcare AI agents. MCP + A2A. Powered by mind-mem and MIND Lang scoring kernels. Built for Agents Assemble Healthcare AI Hackathon. |
 | [medharness](https://github.com/charliehzm/medharness) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/charliehzm/medharness?style=flat-square) | Harness Engineering for Medical AI Coding · HIPAA + PIPL compliant · 12-step SOP + 5-step micro + 23 Skills + 8 MCP servers · Apache 2.0 |
 | [MedSkillOS](https://github.com/albertcheng19/MedSkillOS) | Claude Code | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/albertcheng19/MedSkillOS?style=flat-square) | Medical-grade agent skills for clinical and biomedical workflows. Provides curated skills for diagnostic reasoning, literature retrieval, and patient data analysis. |
+| [openmed-agent](https://github.com/openmed-labs/openmed-agent) | Claude Code | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/openmed-labs/openmed-agent?style=flat-square) | AI-powered medical assistant for the terminal — private, sandboxed, and built for clinicians. Provides drug lookup, guideline search, and clinical reasoning support. |
 ## Medical MCP Servers
 
 > Model Context Protocol servers providing structured access to medical databases and healthcare APIs.
@@ -650,6 +651,7 @@ Each skill is rated on three dimensions:
 | [awesome-medical-mcp-servers](https://github.com/sunanhe/awesome-medical-mcp-servers) | ![](https://img.shields.io/github/stars/sunanhe/awesome-medical-mcp-servers?style=flat-square) | 30+ | Curated collection of Medical MCP servers across clinical, research, and healthcare domains. |
 | [awesome-bio-agent-skills](https://github.com/BioTender-max/awesome-bio-agent-skills) | ![](https://img.shields.io/github/stars/BioTender-max/awesome-bio-agent-skills?style=flat-square) | 15+ | Curated collection of AI agent skills for biomedical research covering genomics, proteomics, single-cell analysis, and drug discovery workflows. |
 | [tula](https://github.com/realactivity/tula) | ![](https://img.shields.io/github/stars/realactivity/tula?style=flat-square) | 10+ | Open-source collection of OpenClaw skills, configurations, and patterns for transforming clinical and biomedical workflows with AI agents. |
+| [AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) | ![](https://img.shields.io/github/stars/AlterLab-IEU/AlterLab-Academic-Skills?style=flat-square) | 183 | 183 evaluated academic Claude/agent skills across 13 research domains including bioinformatics, genomics, computational biology, and literature mining. Systematically benchmarked and graded. |
 
 ---
 
