@@ -403,6 +403,7 @@ Each skill is rated on three dimensions:
 | [HealthBridge MCP Server](https://github.com/Fulcria-Labs/healthbridge) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/Fulcria-Labs/healthbridge?style=flat-square) | Clinical decision support MCP with 29 validated tools for drug interactions, risk scores, lab interpretation, renal/pediatric dosing, IV compatibility, pregnancy safety, opioid MEDD, and FHIR patient summaries. |
 | [CzechMedMCP](https://github.com/petrsovadina/CzechMedMCP) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/petrsovadina/CzechMedMCP?style=flat-square) | 60-tool MCP server bridging Czech and global healthcare sources: SUKL, ICD-10, provider registries, PubMed, ClinicalTrials.gov, OpenFDA, and genomics APIs. Includes tests, Docker, and hosted docs. |
 | [Huawei Health MCP](https://github.com/SabaTech-dev/huawei-health-mcp) | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/SabaTech-dev/huawei-health-mcp?style=flat-square) | MCP Server for Huawei Health Kit — connect your Huawei Watch health data to AI agents via Model Context Protocol. |
+| [awesome-healthcare-mcp-servers](https://github.com/rdmgator12/awesome-healthcare-mcp-servers) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/rdmgator12/awesome-healthcare-mcp-servers?style=flat-square) | A curated list of healthcare MCP servers for FHIR, clinical decision support, revenue cycle, and HIPAA-compliant AI workflows |
 
 **[→ More MCP servers](categories/mcp-servers.md)**
 
