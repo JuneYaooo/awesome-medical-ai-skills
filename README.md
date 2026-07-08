@@ -404,6 +404,7 @@ Each skill is rated on three dimensions:
 | [CzechMedMCP](https://github.com/petrsovadina/CzechMedMCP) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/petrsovadina/CzechMedMCP?style=flat-square) | 60-tool MCP server bridging Czech and global healthcare sources: SUKL, ICD-10, provider registries, PubMed, ClinicalTrials.gov, OpenFDA, and genomics APIs. Includes tests, Docker, and hosted docs. |
 | [Huawei Health MCP](https://github.com/SabaTech-dev/huawei-health-mcp) | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/SabaTech-dev/huawei-health-mcp?style=flat-square) | MCP Server for Huawei Health Kit — connect your Huawei Watch health data to AI agents via Model Context Protocol. |
 | [awesome-healthcare-mcp-servers](https://github.com/rdmgator12/awesome-healthcare-mcp-servers) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/rdmgator12/awesome-healthcare-mcp-servers?style=flat-square) | A curated list of healthcare MCP servers for FHIR, clinical decision support, revenue cycle, and HIPAA-compliant AI workflows |
+| [fhirHydrant](https://github.com/faulkj/fhirHydrant) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/faulkj/fhirHydrant?style=flat-square) | Open-source Node.js FHIR MCP server with SMART Backend Services, metadata-aware search/CRUD tools, compact responses, FHIRPath filtering, safe pagination, audit events, and terminology lookup. |
 
 **[→ More MCP servers](categories/mcp-servers.md)**
 
