@@ -631,6 +631,7 @@ Each skill is rated on three dimensions:
 | Skill | Platform | Grade | Description |
 |-------|----------|-------|-------------|
 | [tcm-video-factory](https://clawskills.sh/skills/tcm-video-factory) | OpenClaw | ⭐ C | Automated Traditional Chinese Medicine health video production. *(Link may be broken)* |
+| [nihaisha-nishi-tcm](https://github.com/JuneYaooo/nihaisha-nishi-tcm) | Claude Code | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/JuneYaooo/nihaisha-nishi-tcm?style=flat-square) | Agent Skill for Ni Haisha TCM course study — formula-pattern lookup, acupoint reference, herbal ingredient search, learning notes organization, and screenshot evidence indexing. 200+ classical TCM prescriptions with structured clinical data. |
 
 ---
 
