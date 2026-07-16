@@ -405,6 +405,7 @@ Each skill is rated on three dimensions:
 | [Huawei Health MCP](https://github.com/SabaTech-dev/huawei-health-mcp) | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/SabaTech-dev/huawei-health-mcp?style=flat-square) | MCP Server for Huawei Health Kit — connect your Huawei Watch health data to AI agents via Model Context Protocol. |
 | [awesome-healthcare-mcp-servers](https://github.com/rdmgator12/awesome-healthcare-mcp-servers) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/rdmgator12/awesome-healthcare-mcp-servers?style=flat-square) | A curated list of healthcare MCP servers for FHIR, clinical decision support, revenue cycle, and HIPAA-compliant AI workflows |
 | [fhirHydrant](https://github.com/faulkj/fhirHydrant) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/faulkj/fhirHydrant?style=flat-square) | Open-source Node.js FHIR MCP server with SMART Backend Services, metadata-aware search/CRUD tools, compact responses, FHIRPath filtering, safe pagination, audit events, and terminology lookup. |
+| [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/cafferychen777/ChatSpatial?style=flat-square) | MCP server for spatial transcriptomics analysis through natural language interfaces. |
 
 **[→ More MCP servers](categories/mcp-servers.md)**
 
