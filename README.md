@@ -659,6 +659,7 @@ Each skill is rated on three dimensions:
 | [awesome-bio-agent-skills](https://github.com/BioTender-max/awesome-bio-agent-skills) | ![](https://img.shields.io/github/stars/BioTender-max/awesome-bio-agent-skills?style=flat-square) | 15+ | Curated collection of AI agent skills for biomedical research covering genomics, proteomics, single-cell analysis, and drug discovery workflows. |
 | [tula](https://github.com/realactivity/tula) | ![](https://img.shields.io/github/stars/realactivity/tula?style=flat-square) | 10+ | Open-source collection of OpenClaw skills, configurations, and patterns for transforming clinical and biomedical workflows with AI agents. |
 | [AlterLab-Academic-Skills](https://github.com/AlterLab-IEU/AlterLab-Academic-Skills) | ![](https://img.shields.io/github/stars/AlterLab-IEU/AlterLab-Academic-Skills?style=flat-square) | 183 | 183 evaluated academic Claude/agent skills across 13 research domains including bioinformatics, genomics, computational biology, and literature mining. Systematically benchmarked and graded. |
+| [Awesome-LLM-Agents-Scientific-Discovery](https://github.com/zjlrock777/Awesome-LLM-Agents-Scientific-Discovery) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/zjlrock777/Awesome-LLM-Agents-Scientific-Discovery?style=flat-square) | A curated list of LLM powered AI Agents in Biomedical Research. Medical Image Analysis, Multi-omics Genomics Analysis, Biomedical Scientific Discoveries... |
 
 ---
 
