@@ -450,6 +450,7 @@ Each skill is rated on three dimensions:
 | [Zotero Keeper](https://github.com/u9401066/zotero-keeper) | MCP Server | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/u9401066/zotero-keeper?style=flat-square) | Local-first MCP server for Zotero and PubMed workflows. Adds DOI/PMID import, duplicate checks, collection browsing, and VS Code one-click install with bilingual docs and CI. |
 | [qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/LeonChaoX/qinyan-academic-skills?style=flat-square) | A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientific writing, grant development, bioinformatics, drug discov... |
 | [k-dense-byok](https://github.com/K-Dense-AI/k-dense-byok) | Claude Code / Multi | ⭐⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/K-Dense-AI/k-dense-byok?style=flat-square) | AI co-scientist powered by Scientific Agent Skills running on desktop — bioinformatics, clinical research, and medical imaging workflows with local execution. |
+| [awesome-genomic-skills](https://github.com/GoekeLab/awesome-genomic-skills) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/GoekeLab/awesome-genomic-skills?style=flat-square) | A curated list of awesome genomics and bioinformatics agentic skills, MCPs and benchmarks for Claude Code, Copilot, Codex, Cursor, Gemini CLI, etc |
 
 **[→ More research skills](categories/research.md)**
 
