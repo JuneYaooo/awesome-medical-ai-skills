@@ -467,6 +467,7 @@ Each skill is rated on three dimensions:
 | [clinical-skills](https://github.com/aizech/clinical-skills) | Claude Code / Multi | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/aizech/clinical-skills?style=flat-square) | 26 installable healthcare agent skills for radiology workflows, clinical documentation, AI integration, and medical research. Includes multi-platform packaging, docs, Docker setup, and 85 tests. |
 | [med-guide](https://github.com/burakcanpolat/med-guide) | Claude Code / Multi | ⭐ C+ | 🟢 Active | ![](https://img.shields.io/github/stars/burakcanpolat/med-guide?style=flat-square) | MedGemma-powered AI-editor workflow for X-ray/CT/MRI/DICOM review, lab-result interpretation, and drug-interaction checks. Ships setup guides, scripts, CI, and local report generation. |
 | [awesome-medical-imaging-agents](https://github.com/Nanboy-Ronan/awesome-medical-imaging-agents) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Nanboy-Ronan/awesome-medical-imaging-agents?style=flat-square) | Awesome list for medical imaging agents: radiology agents, pathology agents, segmentation agents, medical VLM agents, self-evolving agents, benchmarks, datasets, tools, and papers. |
+| [MediGenius](https://github.com/Md-Emon-Hasan/MediGenius) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Md-Emon-Hasan/MediGenius?style=flat-square) | Advanced multi-agent Medical AI Assistant powered by LangGraph that delivers empathetic, doctor-like responses using a hybrid pipeline of LLM reasoning, RAG from medical PDFs, and intelligent fallb... |
 
 > 💡 For standalone medical imaging AI projects (MedRAX, EasyLung, etc.), see [awesome-medical-ai](https://github.com/JuneYaooo/awesome-medical-ai#medical-imaging--radiology). Also see: [DICOM MCP](#medical-mcp-servers) for PACS integration.
 
@@ -636,6 +637,7 @@ Each skill is rated on three dimensions:
 | Skill | Platform | Grade | Description |
 |-------|----------|-------|-------------|
 | [tcm-video-factory](https://clawskills.sh/skills/tcm-video-factory) | OpenClaw | ⭐ C | Automated Traditional Chinese Medicine health video production. *(Link may be broken)* |
+| [huxishu](https://github.com/jangviktor-web/huxishu) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/jangviktor-web/huxishu?style=flat-square) | 胡希恕（1898-1984）经方临床AI技能 — 将经方传道第一人的六经八纲辨证体系注入AI Agent。基于38万字中日录音增补版讲稿（伤寒论398条+金匮要略22篇），蒸馏为16个六经辨证IF-THEN公式、9组方证鉴别速查表、4大核心心智模型（六经来自八纲/方证是辨证的尖端/正邪交争/胃气为本）、7步条辨法、8个饮食调理模型、剂量换算体系。含398条逐条讲解+22篇金匮详解+7大模块r... |
 | [nihaisha-nishi-tcm](https://github.com/JuneYaooo/nihaisha-nishi-tcm) | Claude Code | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/JuneYaooo/nihaisha-nishi-tcm?style=flat-square) | Agent Skill for Ni Haisha TCM course study — formula-pattern lookup, acupoint reference, herbal ingredient search, learning notes organization, and screenshot evidence indexing. 200+ classical TCM prescriptions with structured clinical data. |
 
 ---
