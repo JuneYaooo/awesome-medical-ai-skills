@@ -408,6 +408,7 @@ Each skill is rated on three dimensions:
 | [fhirHydrant](https://github.com/faulkj/fhirHydrant) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/faulkj/fhirHydrant?style=flat-square) | Open-source Node.js FHIR MCP server with SMART Backend Services, metadata-aware search/CRUD tools, compact responses, FHIRPath filtering, safe pagination, audit events, and terminology lookup. |
 | [ChatSpatial](https://github.com/cafferychen777/ChatSpatial) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/cafferychen777/ChatSpatial?style=flat-square) | MCP server for spatial transcriptomics analysis through natural language interfaces. |
 | [openresearch-mcp](https://github.com/olanokhin/openresearch-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/olanokhin/openresearch-mcp?style=flat-square) | Zero-auth, security-hardened cross-domain research MCP server: web, academic, GitHub, news, weather, macro/finance, SEC, biomedical, Bluesky, YouTube. SSRF and prompt-injection defenses. |
+| [mcp-server-bioscience](https://github.com/wangshuaifbj-collab/mcp-server-bioscience) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/wangshuaifbj-collab/mcp-server-bioscience?style=flat-square) | A high-performance MCP server empowering AI Agents with PubMed, ClinicalTrials, ChEMBL, AlphaFold, and Ensembl capabilities. 🧬 |
 
 **[→ More MCP servers](categories/mcp-servers.md)**
 
