@@ -452,6 +452,7 @@ Each skill is rated on three dimensions:
 | [qinyan-academic-skills](https://github.com/LeonChaoX/qinyan-academic-skills) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/LeonChaoX/qinyan-academic-skills?style=flat-square) | A curated, multilingual library of 182 installable AI agent skills for end-to-end academic research—spanning literature discovery, scientific writing, grant development, bioinformatics, drug discov... |
 | [k-dense-byok](https://github.com/K-Dense-AI/k-dense-byok) | Claude Code / Multi | ⭐⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/K-Dense-AI/k-dense-byok?style=flat-square) | AI co-scientist powered by Scientific Agent Skills running on desktop — bioinformatics, clinical research, and medical imaging workflows with local execution. |
 | [awesome-genomic-skills](https://github.com/GoekeLab/awesome-genomic-skills) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/GoekeLab/awesome-genomic-skills?style=flat-square) | A curated list of awesome genomics and bioinformatics agentic skills, MCPs and benchmarks for Claude Code, Copilot, Codex, Cursor, Gemini CLI, etc |
+| [bioinformatics-agent-skills](https://github.com/YuliaNuzhnenko/bioinformatics-agent-skills) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/YuliaNuzhnenko/bioinformatics-agent-skills?style=flat-square) | The #1 open-source collection of scientific AI Agent Skills, tool specifications, and prompt protocols for Bioinformatics, Genomics, Drug Discovery, and Multi-Omics. Compatible with Cursor, Claude ... |
 
 **[→ More research skills](categories/research.md)**
 
@@ -639,6 +640,7 @@ Each skill is rated on three dimensions:
 |-------|----------|-------|-------------|
 | [tcm-video-factory](https://clawskills.sh/skills/tcm-video-factory) | OpenClaw | ⭐ C | Automated Traditional Chinese Medicine health video production. *(Link may be broken)* |
 | [huxishu](https://github.com/jangviktor-web/huxishu) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/jangviktor-web/huxishu?style=flat-square) | 胡希恕（1898-1984）经方临床AI技能 — 将经方传道第一人的六经八纲辨证体系注入AI Agent。基于38万字中日录音增补版讲稿（伤寒论398条+金匮要略22篇），蒸馏为16个六经辨证IF-THEN公式、9组方证鉴别速查表、4大核心心智模型（六经来自八纲/方证是辨证的尖端/正邪交争/胃气为本）、7步条辨法、8个饮食调理模型、剂量换算体系。含398条逐条讲解+22篇金匮详解+7大模块r... |
+| [huangyuanyu](https://github.com/jangviktor-web/huangyuanyu) | OpenClaw | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/jangviktor-web/huangyuanyu?style=flat-square) | 黄元御视角的中医Agent Skill，完整复刻清代名医黄元御一气周流、土枢四象中医辨证体系，融合《四圣心源》《周易悬象》《道德悬解》三书同源思想，是面向 AI Agent 的专业中医辨证技能插件。项目内置 15 套中医诊断公式、8 棵辨证决策树、10 组问诊协议、273 条病机关键词索引，复刻黄元御中气为轴、左升右降、崇阳抑阴诊疗结合伤寒论、金匮要略、黄帝内经、神农本草经、经方逻辑，可实现... |
 | [nihaisha-nishi-tcm](https://github.com/JuneYaooo/nihaisha-nishi-tcm) | Claude Code | ⭐ B | 🟢 Active | ![](https://img.shields.io/github/stars/JuneYaooo/nihaisha-nishi-tcm?style=flat-square) | Agent Skill for Ni Haisha TCM course study — formula-pattern lookup, acupoint reference, herbal ingredient search, learning notes organization, and screenshot evidence indexing. 200+ classical TCM prescriptions with structured clinical data. |
 
 ---
