@@ -410,6 +410,8 @@ Each skill is rated on three dimensions:
 | [openresearch-mcp](https://github.com/olanokhin/openresearch-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/olanokhin/openresearch-mcp?style=flat-square) | Zero-auth, security-hardened cross-domain research MCP server: web, academic, GitHub, news, weather, macro/finance, SEC, biomedical, Bluesky, YouTube. SSRF and prompt-injection defenses. |
 | [mcp-server-bioscience](https://github.com/wangshuaifbj-collab/mcp-server-bioscience) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/wangshuaifbj-collab/mcp-server-bioscience?style=flat-square) | A high-performance MCP server empowering AI Agents with PubMed, ClinicalTrials, ChEMBL, AlphaFold, and Ensembl capabilities. 🧬 |
 | [HasteHealth](https://github.com/HasteHealth/HasteHealth) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/HasteHealth/HasteHealth?style=flat-square) | Headless EHR for storing clinical data as FHIR R4 and serving it to apps and AI agents. |
+| [medical-terminologies-mcp](https://github.com/SidneyBissoli/medical-terminologies-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/SidneyBissoli/medical-terminologies-mcp?style=flat-square) | MCP Server for global medical terminologies: ICD-11, SNOMED CT, LOINC, RxNorm, MeSH |
+| [bio-mcp](https://github.com/qgeng1465/bio-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/qgeng1465/bio-mcp?style=flat-square) | 🧬 BioMCP — 生物信息学 MCP 服务器：PubMed/NCBI/BLAST/PDB/UniProt/富集分析，让任意 AI 助手直连生物数据库。Open-source bioinformatics MCP server. |
 
 **[→ More MCP servers](categories/mcp-servers.md)**
 
