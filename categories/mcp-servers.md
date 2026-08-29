@@ -83,6 +83,17 @@ Focused PubMed search and paper reading.
 
 Advanced NCBI/PubMed with MeSH integration, related articles, batch processing.
 
+### [Noodle Biomedical Literature Discovery MCP](https://github.com/helena-bioinformatics/noodle-mcp) ⭐⭐ B
+
+Public, read-only biomedical literature discovery from Helena Bioinformatics.
+
+- **Connect**: `https://api.helena.bio/noodle/v1/mcp` (Streamable HTTP; no authentication)
+- **Search**: natural language, PMID, DOI, or PMCID over a public PubMed-derived corpus
+- **Graph**: bounded citation and semantic neighborhoods with edge types, version, and provenance
+- **Agent discovery**: companion task-first Agent Skill in the public Apache-2.0 repository
+- **Privacy boundary**: accepts no PHI, patient records, private case data, credentials, or uploads
+- **Limitation**: rank and graph proximity are research-discovery signals, not causal, diagnostic, or treatment claims
+
 ## Tier 4: Personal Health Data Servers
 
 ### [apple-health-mcp-server](https://github.com/the-momentum/apple-health-mcp-server) ⭐⭐ B
