@@ -412,6 +412,7 @@ Each skill is rated on three dimensions:
 | [HasteHealth](https://github.com/HasteHealth/HasteHealth) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/HasteHealth/HasteHealth?style=flat-square) | Headless EHR for storing clinical data as FHIR R4 and serving it to apps and AI agents. |
 | [medical-terminologies-mcp](https://github.com/SidneyBissoli/medical-terminologies-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/SidneyBissoli/medical-terminologies-mcp?style=flat-square) | MCP Server for global medical terminologies: ICD-11, SNOMED CT, LOINC, RxNorm, MeSH |
 | [bio-mcp](https://github.com/qgeng1465/bio-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/qgeng1465/bio-mcp?style=flat-square) | 🧬 BioMCP — 生物信息学 MCP 服务器：PubMed/NCBI/BLAST/PDB/UniProt/富集分析，让任意 AI 助手直连生物数据库。Open-source bioinformatics MCP server. |
+| [genpark-clinical-peer-review-evidence-citation-engine-skill](https://github.com/alphaparkinc/genpark-clinical-peer-review-evidence-citation-engine-skill) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/alphaparkinc/genpark-clinical-peer-review-evidence-citation-engine-skill?style=flat-square) | Clinical peer-reviewed medical evidence citation engine (OpenEvidence style) |
 
 **[→ More MCP servers](categories/mcp-servers.md)**
 
