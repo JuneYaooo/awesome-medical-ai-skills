@@ -198,6 +198,7 @@ Each skill is rated on three dimensions:
 | [MedSkillOS](https://github.com/albertcheng19/MedSkillOS) | Claude Code | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/albertcheng19/MedSkillOS?style=flat-square) | Medical-grade agent skills for clinical and biomedical workflows. Provides curated skills for diagnostic reasoning, literature retrieval, and patient data analysis. |
 | [openmed-agent](https://github.com/openmed-labs/openmed-agent) | Claude Code | ⭐ C | 🟡 Moderate | ![](https://img.shields.io/github/stars/openmed-labs/openmed-agent?style=flat-square) | AI-powered medical assistant for the terminal — private, sandboxed, and built for clinicians. Provides drug lookup, guideline search, and clinical reasoning support. |
 | [MD2SKILL](https://github.com/dromlakhani/MD2SKILL) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/dromlakhani/MD2SKILL?style=flat-square) | Convert your MD to Skill.MD — AI-powered clinical decision support skills from medical guidelines |
+| [cps-skills](https://github.com/htlin222/cps-skills) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/htlin222/cps-skills?style=flat-square) | Claude Code skill for multi-persona Bayesian diagnostic reasoning using NEJM Clinical Problem-Solving format with likelihood ratios, evidence-based medicine, and medical AI education |
 ## Medical MCP Servers
 
 > Model Context Protocol servers providing structured access to medical databases and healthcare APIs.
