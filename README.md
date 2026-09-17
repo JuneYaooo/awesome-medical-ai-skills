@@ -415,6 +415,7 @@ Each skill is rated on three dimensions:
 | [bio-mcp](https://github.com/qgeng1465/bio-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/qgeng1465/bio-mcp?style=flat-square) | 🧬 BioMCP — 生物信息学 MCP 服务器：PubMed/NCBI/BLAST/PDB/UniProt/富集分析，让任意 AI 助手直连生物数据库。Open-source bioinformatics MCP server. |
 | [genpark-clinical-peer-review-evidence-citation-engine-skill](https://github.com/alphaparkinc/genpark-clinical-peer-review-evidence-citation-engine-skill) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/alphaparkinc/genpark-clinical-peer-review-evidence-citation-engine-skill?style=flat-square) | Clinical peer-reviewed medical evidence citation engine (OpenEvidence style) |
 | [genpark-clinical-conversation-ambient-scribe-soap-generator-skill](https://github.com/alphaparkinc/genpark-clinical-conversation-ambient-scribe-soap-generator-skill) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/alphaparkinc/genpark-clinical-conversation-ambient-scribe-soap-generator-skill?style=flat-square) | Ambient clinical conversation scribe and SOAP note EHR generator (Abridge style) |
+| [OnCo](https://github.com/judegomila/OnCo) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/judegomila/OnCo?style=flat-square) | OnCo: total information dominance on cancer. A public, cited knowledge graph of oncology with a website, JSON API, MCP server and CLI: one page per cancer, treatment, target, trial, institution, pe... |
 
 **[→ More MCP servers](categories/mcp-servers.md)**
 
