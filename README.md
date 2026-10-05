@@ -464,6 +464,7 @@ Each skill is rated on three dimensions:
 | [Awesome-Endo-Adeno-Resources](https://github.com/bloo-berries/Awesome-Endo-Adeno-Resources) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/bloo-berries/Awesome-Endo-Adeno-Resources?style=flat-square) | Comprehensively and confidently navigating Endometriosis and Adenomyosis and their comorbidities. #MaintainerMonth |
 | [hcls-agent-skills](https://github.com/awslabs/hcls-agent-skills) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/awslabs/hcls-agent-skills?style=flat-square) | Agent skills for healthcare and life sciences: genomics, imaging, claims, drug discovery, and more. Works with Amazon Quick, Kiro, Amazon AgentCore, AWS Strands SDK, Claude Code, Codex, and any Age... |
 | [Awesome-AI-Meets-Biology](https://github.com/Webioinfo01/Awesome-AI-Meets-Biology) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Webioinfo01/Awesome-AI-Meets-Biology?style=flat-square) | Awesome-AI-Meets-Biology is a collection of state-of-the-art, novel, exciting LLMs and agents on biomedical and bioinformatic fields. |
+| [spmind](https://github.com/tomtommyyuan/spmind) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/tomtommyyuan/spmind?style=flat-square) | [ICML 2026] Autonomous AI agent for end-to-end spatial proteomics analysis, with SP-Bench for agentic multiplexed-imaging workflows. |
 
 **[→ More research skills](categories/research.md)**
 
