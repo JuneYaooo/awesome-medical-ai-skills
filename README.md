@@ -466,6 +466,7 @@ Each skill is rated on three dimensions:
 | [Awesome-AI-Meets-Biology](https://github.com/Webioinfo01/Awesome-AI-Meets-Biology) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Webioinfo01/Awesome-AI-Meets-Biology?style=flat-square) | Awesome-AI-Meets-Biology is a collection of state-of-the-art, novel, exciting LLMs and agents on biomedical and bioinformatic fields. |
 | [spmind](https://github.com/tomtommyyuan/spmind) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/tomtommyyuan/spmind?style=flat-square) | [ICML 2026] Autonomous AI agent for end-to-end spatial proteomics analysis, with SP-Bench for agentic multiplexed-imaging workflows. |
 | [awesome-spatial-transcriptomics](https://github.com/wrab12/awesome-spatial-transcriptomics) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/wrab12/awesome-spatial-transcriptomics?style=flat-square) | A curated list of tools, foundation models, datasets and tutorials for spatial transcriptomics and single-cell analysis, ordered the way an analysis goes. |
+| [operon](https://github.com/swaruplab/operon) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/swaruplab/operon?style=flat-square) | AI-powered IDE for bioinformatics — built by biologists, for biologists |
 
 **[→ More research skills](categories/research.md)**
 
