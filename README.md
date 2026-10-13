@@ -467,6 +467,7 @@ Each skill is rated on three dimensions:
 | [spmind](https://github.com/tomtommyyuan/spmind) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/tomtommyyuan/spmind?style=flat-square) | [ICML 2026] Autonomous AI agent for end-to-end spatial proteomics analysis, with SP-Bench for agentic multiplexed-imaging workflows. |
 | [awesome-spatial-transcriptomics](https://github.com/wrab12/awesome-spatial-transcriptomics) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/wrab12/awesome-spatial-transcriptomics?style=flat-square) | A curated list of tools, foundation models, datasets and tutorials for spatial transcriptomics and single-cell analysis, ordered the way an analysis goes. |
 | [operon](https://github.com/swaruplab/operon) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/swaruplab/operon?style=flat-square) | AI-powered IDE for bioinformatics — built by biologists, for biologists |
+| [structure-factory](https://github.com/BioSymphony/structure-factory) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/BioSymphony/structure-factory?style=flat-square) | AI-agent toolkit for structural biology: design binders, map structures, screen candidates, rank results, and prepare cloud-scale runs. |
 
 **[→ More research skills](categories/research.md)**
 
