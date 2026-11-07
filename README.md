@@ -420,6 +420,8 @@ Each skill is rated on three dimensions:
 | [FHIR-AI-Hackathon-Kit](https://github.com/intersystems-community/FHIR-AI-Hackathon-Kit) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/intersystems-community/FHIR-AI-Hackathon-Kit?style=flat-square) | Hands-on Jupyter tutorials for InterSystems IRIS for Health: load CSV and FHIR data, query with Python and SQL, vector search, LangChain AI agents and MCP servers. |
 | [Taiwan-Health-MCP](https://github.com/healthymind-tech/Taiwan-Health-MCP) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/healthymind-tech/Taiwan-Health-MCP?style=flat-square) | 讓 AI agent 讀懂台灣醫療：63 個 MCP 工具，涵蓋 FHIR R4 / TW Core 驗證、ICD-10、SNOMED CT、LOINC、TFDA 藥品與臨床計算器。MCP server for Taiwan healthcare data. |
 | [redacta](https://github.com/nickjlamb/redacta) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/nickjlamb/redacta?style=flat-square) | A privacy boundary for clinical text. Pseudonymises patient identifiers before the AI sees them, keeps the reversal map out of the model's context, then checks the output for leaks. MCP server, Age... |
+| [consensus-mcp](https://github.com/Consensus-NLP/consensus-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Consensus-NLP/consensus-mcp?style=flat-square) | Official Consensus MCP server. Semantic search over 400M+ research papers, including all of PubMed, for Claude, ChatGPT, Cursor and any MCP client. |
+| [medmlx](https://github.com/MedMLX/medmlx) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/MedMLX/medmlx?style=flat-square) | Python API, CLI and MCP server for native medical imaging models on Apple Silicon |
 
 **[→ More MCP servers](categories/mcp-servers.md)**
 
