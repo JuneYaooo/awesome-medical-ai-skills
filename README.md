@@ -558,6 +558,7 @@ Each skill is rated on three dimensions:
 | [soft-pillow](https://clawskills.sh/skills/kivs-soft-pillow) | OpenClaw | ⭐ C | 🟡 Moderate | Sleep data and dream history queries. |
 | [eightctl](https://clawskills.sh/skills/steipete-eightctl) | OpenClaw | ⭐⭐ B | 🟡 Moderate | Control Eight Sleep pods — temperature, alarms, schedules. |
 | [anthrovision-telegram-body-scan](https://clawskills.sh/skills/dr2101-anthrovision-telegram-body-scan) | OpenClaw | ⭐ C | 🟡 Moderate | Body measurement scan via Telegram. |
+| [awesome-health-stack](https://github.com/maccman/awesome-health-stack) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/maccman/awesome-health-stack?style=flat-square) | Places I've found to get health data without going through a doctor first. |
 
 **[→ Full wearables list](categories/wearables.md)**
 
