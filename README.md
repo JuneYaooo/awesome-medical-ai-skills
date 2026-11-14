@@ -424,6 +424,7 @@ Each skill is rated on three dimensions:
 | [medmlx](https://github.com/MedMLX/medmlx) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/MedMLX/medmlx?style=flat-square) | Python API, CLI and MCP server for native medical imaging models on Apple Silicon |
 | [orinyx-mcp](https://github.com/lexthirteen-ai/orinyx-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/lexthirteen-ai/orinyx-mcp?style=flat-square) | Official Orinyx MCP server: test healthcare AI agents against cited FDA labels. Deterministic, no LLM in the verdict. |
 | [openrecord](https://github.com/Fan-Pier-Labs/openrecord) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Fan-Pier-Labs/openrecord?style=flat-square) | Let Claude read and manage your Epic MyChart health records — labs, meds, messages, refills, imaging. Claude Desktop extension (MCP server), iOS app, and CLI. Runs on your device. |
+| [lifesciences-research](https://github.com/donbr/lifesciences-research) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/donbr/lifesciences-research?style=flat-square) | AI Agent wrappers for Life Sciences APIs (Open Targets, ChEMBL, UniProt). Accelerating drug discovery with Model Context Protocol (MCP) and FastMCP. |
 
 **[→ More MCP servers](categories/mcp-servers.md)**
 
