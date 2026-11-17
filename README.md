@@ -425,6 +425,7 @@ Each skill is rated on three dimensions:
 | [orinyx-mcp](https://github.com/lexthirteen-ai/orinyx-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/lexthirteen-ai/orinyx-mcp?style=flat-square) | Official Orinyx MCP server: test healthcare AI agents against cited FDA labels. Deterministic, no LLM in the verdict. |
 | [openrecord](https://github.com/Fan-Pier-Labs/openrecord) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Fan-Pier-Labs/openrecord?style=flat-square) | Let Claude read and manage your Epic MyChart health records — labs, meds, messages, refills, imaging. Claude Desktop extension (MCP server), iOS app, and CLI. Runs on your device. |
 | [lifesciences-research](https://github.com/donbr/lifesciences-research) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/donbr/lifesciences-research?style=flat-square) | AI Agent wrappers for Life Sciences APIs (Open Targets, ChEMBL, UniProt). Accelerating drug discovery with Model Context Protocol (MCP) and FastMCP. |
+| [fhir-dsl](https://github.com/awbx/fhir-dsl) | MCP Server | ⭐ C | 🔴 Stale | ![](https://img.shields.io/github/stars/awbx/fhir-dsl?style=flat-square) | The TypeScript FHIR toolchain — typed query builder, code generator, FHIRPath, validators with invariants, SMART v2, terminology, and an MCP server |
 
 **[→ More MCP servers](categories/mcp-servers.md)**
 
