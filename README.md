@@ -481,6 +481,7 @@ Each skill is rated on three dimensions:
 | [structure-factory](https://github.com/BioSymphony/structure-factory) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/BioSymphony/structure-factory?style=flat-square) | AI-agent toolkit for structural biology: design binders, map structures, screen candidates, rank results, and prepare cloud-scale runs. |
 | [vital-skills](https://github.com/databricks-industry-solutions/vital-skills) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/databricks-industry-solutions/vital-skills?style=flat-square) | Health & Life Sciences agent skills for Databricks Genie Code: genomics, RWE cohorts, PHI de-identification, payer/provider measures, and skill evaluation |
 | [bioinformatics-agent-skills](https://github.com/ssinder/bioinformatics-agent-skills) | — | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/ssinder/bioinformatics-agent-skills?style=flat-square) | Agent Skills for computational biology — RNA-seq, single-cell, protein structure, molecular dynamics, peptide design, literature mining and publication figures. Turn any AI coding agent into a comp... |
+| [motif](https://github.com/jvogan/motif) | Claude Code | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/jvogan/motif?style=flat-square) | AI-native molecular biology workbench. Ask your AI agent for a DNA, RNA, or protein analysis and it opens as a live workspace you can explore, annotate, and edit. Works in Claude Science and Codex. |
 
 **[→ More research skills](categories/research.md)**
 
