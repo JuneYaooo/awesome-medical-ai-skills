@@ -426,6 +426,7 @@ Each skill is rated on three dimensions:
 | [openrecord](https://github.com/Fan-Pier-Labs/openrecord) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/Fan-Pier-Labs/openrecord?style=flat-square) | Let Claude read and manage your Epic MyChart health records — labs, meds, messages, refills, imaging. Claude Desktop extension (MCP server), iOS app, and CLI. Runs on your device. |
 | [lifesciences-research](https://github.com/donbr/lifesciences-research) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/donbr/lifesciences-research?style=flat-square) | AI Agent wrappers for Life Sciences APIs (Open Targets, ChEMBL, UniProt). Accelerating drug discovery with Model Context Protocol (MCP) and FastMCP. |
 | [fhir-dsl](https://github.com/awbx/fhir-dsl) | MCP Server | ⭐ C | 🔴 Stale | ![](https://img.shields.io/github/stars/awbx/fhir-dsl?style=flat-square) | The TypeScript FHIR toolchain — typed query builder, code generator, FHIRPath, validators with invariants, SMART v2, terminology, and an MCP server |
+| [evidence-mcp](https://github.com/forever-healthy/evidence-mcp) | MCP Server | ⭐ C | 🟢 Active | ![](https://img.shields.io/github/stars/forever-healthy/evidence-mcp?style=flat-square) | Power tools for AI agents to improve and speed up medical literature research: a self-building local library of sources, decider-based claim verification, and optimized access to PubMed, ClinicalTr... |
 
 **[→ More MCP servers](categories/mcp-servers.md)**
 
